@@ -19,5 +19,17 @@
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.13.5",
     "@babel/plugin-proposal-export-default-from": "^7.12.13"
-  }
+  },
+  "description": "Create your notes and publish them digital-garden style effortlessely.",
+  "main": "gatsby-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmzetti/foam-digital-garden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmzetti/foam-digital-garden/issues"
+  },
+  "homepage": "https://github.com/rmzetti/foam-digital-garden#readme"
 }
