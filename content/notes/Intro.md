@@ -20,5 +20,5 @@ In Lily's music there is Für Elise, which is in C, with a lot of interpretation
 ### Music
 Centred around middle C
 
-![[intro1|500]]
+![[intro1.png|500]]
 
