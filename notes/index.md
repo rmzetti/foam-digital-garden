@@ -4,7 +4,7 @@ This is a note. I'll add more notes [[daily-note-2021-03-06]]
 
 - This is a linked note about my favourite topic [[food]]
 - Another linked note to show [[code]]
-- Introduction to music [[Intro]]
+- Introduction to music [[Intro]] or [[music/Intro]]
 
 
 ![[music/intro1.png]] 
