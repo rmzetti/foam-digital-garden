@@ -1,4 +1,4 @@
-All my notes
+All my notes 18Aug
 
 This is a note. I'll add more notes [[daily-note-2021-03-06]]
 
