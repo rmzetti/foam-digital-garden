@@ -8,6 +8,9 @@ module.exports = {
         rootNote: `/index`,
       },
     },
+    {
+      resolve: `gatsby-remark-wiki-link`,
+    },
   ],
   siteMetadata: {
     title: `My Digital Garden`,
