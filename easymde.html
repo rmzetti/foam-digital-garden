@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Easymde</title>
+    <!-- <link rel="stylesheet" href="https://unpkg.com/easymde/dist/easymde.min.css"> -->
+    <link rel="stylesheet" href="./lib/github.min.css">
+    <link rel="stylesheet" href="./lib/easymde.min.css">
+    <script>
+    function loaddarkcss() {
+        let style = document.createElement("link");
+        style.rel = "stylesheet";style.href = "./lib/dark.css";
+        document.head.appendChild(style);
+        style = document.createElement("link");
+        style.rel="stylesheet"; style.href="./lib/easymdedark.css";
+        document.head.appendChild(style);
+    }
+    if(parent.usedark)loaddarkcss()
+    </script>
+    <script src="./lib/easymde218.min.js"></script>
+    <script src="./lib/highlight.min.js"></script>
+    <!-- <script src="./.extras/easymde.js"></script> -->
+</head>
+<body>
+  <textarea></textarea>
+    <script> //note that the editor contents can be retrieved using localStorage.getItem('smde_MyUniqueID')
+        const easyMDE = new EasyMDE({
+          autofocus: true, 
+          autosave: { enabled: true, uniqueId: "MyUniqueID", delay: 1000, submit_delay: 5000, timeFormat: { locale: 'en-US', format: { year: 'numeric', month: 'long', day: '2-digit', hour: '2-digit', minute: '2-digit', }, }, text: "Autosaved: " },
+          renderingConfig: { codeSyntaxHighlighting: true }, spellChecker: false,
+          config: { codeSyntaxHighlighting: true },
+        });
+        easyMDE.toggleFullScreen();
+        // if(window.innerWidth>1000)easyMDE.toggleSideBySide();
+        // document.querySelectorAll('code').forEach((block) => {
+        //   // will work once when the next line is uncommented
+        //   // hljs.highlightBlock(block);
+        //   //hljs.highlightElement(block);
+        // });
+    </script>
+    <a href="https://morioh.com/p/ebce03c9ff94">EasyMDE options as below</a>
+
+  </body>
+</html>

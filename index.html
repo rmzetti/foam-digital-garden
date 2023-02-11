@@ -1,0 +1,119 @@
+<html>
+
+<head>
+  <title>rmzetti</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0">
+  <script src="./lib/zetti.js"></script>
+  <link rel="stylesheet" href="./lib/tinymde.min.css">
+  <link rel="stylesheet" href="./lib/katex.min.css">
+  <link rel="stylesheet" href="./lib/zetti.css">
+  <link rel="stylesheet" href="./lib/latex.css">
+  <link rel="manifest" href="./manifest.json">
+  <script src="./lib/pouchdb.min.js"></script>
+  <script src="./lib/tinymde.min.js"></script>
+  <script src="./lib/showdown.min.js"></script>
+  <script src="./lib/katex.min.js"></script>
+  <link rel="stylesheet" href="./lib/github.min.css">
+  <script src="./lib/highlight.min.js"></script>
+  <script> if ('serviceWorker' in navigator) { navigator.serviceWorker.register('service-worker.js'); }
+  </script>
+</head>
+
+<body onload="rmzLoad();">
+  <div id="header">
+    <span style="float: left;font-size:larger;">
+      <button title="toggle left" onclick="toggleSide(nav);" class="btndk"> >></button>
+      <div class="dropdown">
+        <button title="menu" class="btndk"> ≡</button>
+        <div id="menu1" class="dropdown-content">
+          <a href="javascript:void()" onclick="home();">Home <b>⌂</b></a>
+          <a href="javascript:void()" onclick="main.scrollTop=0;ed=document.getElementById('ed');if (ed.style.display=='none'){ed.style.display='block';resizeiframe(ed);} else {loadfile(fname,main,false);}"
+            id="medit">Edit markdown <b>¶</b></a>
+          <a href="javascript:void()" onclick="darkmode(!usedark);location.reload();">Toggle dark mode</a>
+          <!-- <a href="javascript:void()" onclick="document.getElementById('notes').src='./easymde.html'; fadeIn(document.getElementById('popup3'))">Notes</a> -->
+          <a href="javascript:void()" onclick="location.href='?journal.md'">Notes</a>
+          <a href="javascript:void()" onclick="peek(true,'?alt.md');">Alternatives</a>
+          <!-- <a href="javascript:void()" onclick="loadOriginal=!loadOriginal;setCookie('loadOriginal',loadOriginal);location.reload();">Toggle original</a> -->
+          <a href="javascript:void()" onclick="fadeIn(document.getElementById('popup2'))">Show last peek</a>
+          <a href="javascript:void()" onclick="alert(getAllCookies());">Show all cookies</a>
+          <a href="javascript:void()" onclick="alert('mainscr'+pageid+':'+getCookie('mainscr'+pageid));">get page
+            cookie</a>
+          <a href="javascript:void()" onclick="removeCookies();">Clear all cookies</a>
+          <a href="javascript:void()" onclick="setCookie('navscr',400);">Set nav cookie</a>
+          <a href="javascript:void()" onclick="searchFiles('elderhood');">search</a>
+          <a href="javascript:void()"
+            onclick="preventDefault=!preventDefault;setCookie('noContextMenu',preventDefault);">Toggle context menu</a>
+          <a href="javascript:void()" onclick="alert(''+hroot+';'+window.location)">root</a>
+          <a href="javascript:void()" onclick="alert(localStorage.getItem('errors'));">show errors</a>
+          <a href="javascript:void()" onclick="localStorage.setItem('errors','');">reset errors</a>
+          <a href="javascript:void()" onclick="toggleHTML();">view html</a>
+          <a href="javascript:void()" onclick="gethtml();">get html</a>
+        </div>
+      </div>
+      <button title="local edit"
+        onclick="main.scrollTop=0;ed=document.getElementById('ed');if (ed.style.display=='none'){ed.style.display='block';resizeiframe(ed);} else {loadfile(fname,main,false);}"
+        class="btndk" id="bedit" hidden> ¶</button>
+    </span>
+    <span style="float:center; overflow:hidden;width:50%">
+      <p id="titleMain" style="margin-top: 0;font-size:larger;" onclick="toggleSide(nav);if(!iframe)toggleSide(rhs);">
+      </p>
+    </span>
+    <span style="float:right;font-size:larger">
+      <button title="network graph"
+        onclick="document.getElementById('dispPopup').innerHTML=disp.innerHTML; fadeIn(document.getElementById('popup1'));"
+        class="btndk">❄</button>
+      <button title="toggle right" onclick="toggleSide(rhs);" class="btndk">
+        <<</button>&nbsp;
+    </span>
+  </div>
+  <div id="nav"></div>
+  <div id="main"></div>
+  <div id="rhs">
+    <div id="disp">
+      <iframe id='peek2' style="width:100%; height:100%;border:none;"></iframe>
+    </div>
+    <div id="cont"></div>
+  </div>
+  <div hidden id="orig"></div>
+  <div class="popupGroup">
+
+    <div id="popup1" class="popup fade"><!--Link graph popup-->
+      <div class="popupHdr" id="popup1hdr">
+        <button class="popupBtn" onclick="fadeOut(parentNode.parentNode)">✕</button>
+        <p class="popupTitle">Network graph</p>
+        <button class="popupBtn" onclick="fadeOut(parentNode.parentNode)">✕</button>
+      </div>
+      <div id="dispPopup" class="popupMain"></div>
+    </div>
+
+    <div id="popup2" class="popup"><!--Peek popup-->
+      <div class="popupHdr" id="popup2hdr">
+        <div><button class="popupBtn" onclick="fadeOut(parentNode.parentNode.parentNode)">✕</button>
+          <button class="popupBtn" id="peekEdBtn"
+            onclick="let d=document.getElementById('peekPopup');d.innerHTML=`<iframe src='./stackedit.html?${document.getElementById('peekPopupTitle').innerText}' width=100% height=125%></iframe>`"> ¶</button><!-- this shows editor -->
+        </div>
+        <p id="peekPopupTitle" class="popupTitle">Peek</p>
+        <button class="popupBtn" onclick="fadeOut(parentNode.parentNode)">✕</button>
+      </div>
+      <div id='peekPopup' class="popupMain"></div>
+    </div>
+
+    <div id="popup3" class="popup"><!--Notes popup-->
+      <div class="popupHdr" id="popup3hdr">
+        <button class="popupBtn" onclick="fadeOut(parentNode.parentNode)">✕</button>
+        <p class="popupTitle">Notes</p>
+        <button class="popupBtn" onclick="fadeOut(parentNode.parentNode)">✕</button>
+      </div>
+      <div id='notesPopup' class="popupMain">
+        <iframe id="notes" src="./easymde.html"></iframe>
+      </div>
+    </div>
+    
+  </div>
+</body>
+
+</html>
+
+<!-- <button title="home" onclick="home();" class="btndk">⌂</button> -->
+<!-- <button title="back (ctrl=fwd)" onclick="back(event);" class="btndk"><</button> -->
+<!-- <button title="scroll main to top" onclick="if(!iframe){main.scrollTop=0;setCookie('mainscr' + pageid,0);} else    {document.getElementById('iid').contentWindow.document.body.scrollTop=0;}" class="btndk">^</button> -->

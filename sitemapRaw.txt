@@ -1,0 +1,1925 @@
+bm25/index.html
+diaries/StEdwardsOxford1874.pdf
+docs/showdowns-features.md
+docs/showdowns-markdown-syntax.md
+foamtree/demos/assets/img/bootstrap-colorpicker/alpha.png
+foamtree/demos/assets/img/bootstrap-colorpicker/hue.png
+foamtree/demos/assets/img/bootstrap-colorpicker/saturation.png
+foamtree/demos/assets/img/demos/accuracy.jpg
+foamtree/demos/assets/img/demos/background.jpg
+foamtree/demos/assets/img/demos/coverage.jpg
+foamtree/demos/assets/img/demos/csv.jpg
+foamtree/demos/assets/img/demos/deferred-layout.jpg
+foamtree/demos/assets/img/demos/flickr.jpg
+foamtree/demos/assets/img/demos/ft500.jpg
+foamtree/demos/assets/img/demos/github.jpg
+foamtree/demos/assets/img/demos/graph-navigation.jpg
+foamtree/demos/assets/img/demos/group-descriptions.jpg
+foamtree/demos/assets/img/demos/hints.jpg
+foamtree/demos/assets/img/demos/images.jpg
+foamtree/demos/assets/img/demos/interactive-custom-content.jpg
+foamtree/demos/assets/img/demos/label-editing.jpg
+foamtree/demos/assets/img/demos/large.jpg
+foamtree/demos/assets/img/demos/lazy-loading.jpg
+foamtree/demos/assets/img/demos/legacy.jpg
+foamtree/demos/assets/img/demos/loading.jpg
+foamtree/demos/assets/img/demos/quick-start.jpg
+foamtree/demos/assets/img/demos/rectangular.jpg
+foamtree/demos/assets/img/demos/relaxation-progress.jpg
+foamtree/demos/assets/img/demos/scada.jpg
+foamtree/demos/assets/img/demos/scrollable.jpg
+foamtree/demos/assets/img/demos/settings.jpg
+foamtree/demos/assets/img/demos/sticky-tooltips.jpg
+foamtree/demos/assets/img/demos/titlebar-details.jpg
+foamtree/demos/assets/img/demos/tooltips.jpg
+foamtree/demos/assets/img/demos/touch.jpg
+foamtree/demos/assets/img/3.1.0-new-demos.jpg
+foamtree/demos/assets/img/3.4.0-demo-background.jpg
+foamtree/demos/assets/img/3.4.0-demo-ft500.jpg
+foamtree/demos/assets/img/3.4.0-demo-photo-explorer.jpg
+foamtree/demos/assets/img/3.4.0-demo-scada.jpg
+foamtree/demos/assets/img/3.4.4-interactive-custom-content.jpg
+foamtree/demos/assets/img/3.5.0-npm-licensed-version-link.png
+foamtree/demos/assets/img/checker.png
+foamtree/demos/assets/img/data-generator.jpg
+foamtree/demos/assets/img/excel-8.png
+foamtree/demos/assets/img/exposed.jpg
+foamtree/demos/assets/img/flattened-vs-hierarchical-stacking.jpg
+foamtree/demos/assets/img/foamtree-219.png
+foamtree/demos/assets/img/foamtree-flattened-stacking.png
+foamtree/demos/assets/img/foamtree-group-shapes.jpg
+foamtree/demos/assets/img/foamtree-group-states.jpg
+foamtree/demos/assets/img/foamtree-hierarchical-stacking.png
+foamtree/demos/assets/img/foamtree-ordered-layout.png
+foamtree/demos/assets/img/foamtree-relaxed-layout.png
+foamtree/demos/assets/img/foamtree-squarified-layout.png
+foamtree/demos/assets/img/ft500.png
+foamtree/demos/assets/img/github-profile.png
+foamtree/demos/assets/img/github-search.jpg
+foamtree/demos/assets/img/github-thumb.jpg
+foamtree/demos/assets/img/large-data-sets.jpg
+foamtree/demos/assets/img/logo-stub.png
+foamtree/demos/assets/img/main-thumbnail.jpg
+foamtree/demos/assets/img/polygon-stabbing.jpg
+foamtree/demos/assets/img/rectangular-layouts.jpg
+foamtree/demos/accuracy.html
+foamtree/demos/attribution.html
+foamtree/demos/background.html
+foamtree/demos/contextmenu.html
+foamtree/demos/coverage.html
+foamtree/demos/csv.html
+foamtree/demos/deferred-layout.html
+foamtree/demos/external-interaction.html
+foamtree/demos/flickr.html
+foamtree/demos/ft500.html
+foamtree/demos/geometry.html
+foamtree/demos/github.html
+foamtree/demos/graph-navigation.html
+foamtree/demos/group-descriptions.html
+foamtree/demos/hints.html
+foamtree/demos/images.html
+foamtree/demos/index.html
+foamtree/demos/initial-positions.html
+foamtree/demos/interactive-custom-content.html
+foamtree/demos/label-editing.html
+foamtree/demos/large.html
+foamtree/demos/lazy-loading.html
+foamtree/demos/legacy-1.0.x.html
+foamtree/demos/legacy.html
+foamtree/demos/loading.html
+foamtree/demos/mixed-stacking.html
+foamtree/demos/quick-start.html
+foamtree/demos/rectangular.html
+foamtree/demos/relaxation-progress.html
+foamtree/demos/scada.html
+foamtree/demos/scrolling.html
+foamtree/demos/settings.html
+foamtree/demos/sticky-tooltips.html
+foamtree/demos/titlebar-details.html
+foamtree/demos/tooltips.html
+foamtree/demos/touch.html
+foamtree/index.html
+foamtree/LICENSE.txt
+foamtree/README.txt
+gigaSec/0. Files/0 vHTyjCfmCA6O91yD.png
+gigaSec/0. Files/1 cs4WrYZDSERqIfHJBZoflQ.jpeg
+gigaSec/0. Files/1 T4lE_CveG7rAkEziwKtpAw.jpeg
+gigaSec/0. Files/1 ZFpPwH6_ssRu5p8tM9T-vQ.jpeg
+gigaSec/0. Files/121680221_3947660798580602_7575083691404862928_n.jpg
+gigaSec/0. Files/1_ESq5g9Vi988AHHXTA1cfLw.png
+gigaSec/0. Files/1_h8-Y7kfLY81IeZ61y6RhPA.png
+gigaSec/0. Files/2020-08-13_folgezettel-sequence.png
+gigaSec/0. Files/202010271850_link-context.png
+gigaSec/0. Files/3XAfRpI.png
+gigaSec/0. Files/ARP_Protocol.png
+gigaSec/0. Files/bus_topology.png
+gigaSec/0. Files/cookie_flow.png
+gigaSec/0. Files/cpuCores-vs-gpuCores.jpg
+gigaSec/0. Files/DHCP.png
+gigaSec/0. Files/Differences-between-GPU-and-CPU-cores.jpg
+gigaSec/0. Files/domain_levels.png
+gigaSec/0. Files/dos-attack.jpg
+gigaSec/0. Files/EPS Connector.jpg
+gigaSec/0. Files/ethernet_mac_address.jpg
+gigaSec/0. Files/folgezettel 1.png
+gigaSec/0. Files/folgezettel.png
+gigaSec/0. Files/Front Panel Connector.jpg
+gigaSec/0. Files/gigasecure.jpg
+gigaSec/0. Files/gm-5383d953-2604-4a48-b34d-50c138d17d7d-intel-procesor-names-473393.png
+gigaSec/0. Files/image-2.png
+gigaSec/0. Files/image-3.png
+gigaSec/0. Files/image.jpeg
+gigaSec/0. Files/imbalanced_tree.png
+gigaSec/0. Files/ip2domaindrawing.png
+gigaSec/0. Files/line.png
+gigaSec/0. Files/Linear-Search.png
+gigaSec/0. Files/mac_address.png
+gigaSec/0. Files/Main Power Connector.jpg
+gigaSec/0. Files/Making a DNS request.png
+gigaSec/0. Files/man_in_the_middle_attack.png
+gigaSec/0. Files/map.png
+gigaSec/0. Files/Molex.jpg
+gigaSec/0. Files/multiplexing.jpg
+gigaSec/0. Files/Neck-Alignment-The-Chin-Tuck.png
+gigaSec/0. Files/newurl.png
+gigaSec/0. Files/octets.png
+gigaSec/0. Files/orstrich_algo.png
+gigaSec/0. Files/P4 Connector.jpg
+gigaSec/0. Files/parts-division.png
+gigaSec/0. Files/Pasted image 20211117161404.png
+gigaSec/0. Files/Pasted image 20211123103903.png
+gigaSec/0. Files/Pasted image 20211123103923.png
+gigaSec/0. Files/Pasted image 20211123104232.png
+gigaSec/0. Files/Pasted image 20211123104315.png
+gigaSec/0. Files/Pasted image 20211124111142.png
+gigaSec/0. Files/Pasted image 20211204094338.png
+gigaSec/0. Files/Pasted image 20220622150102.png
+gigaSec/0. Files/Pasted image 20220624105028.png
+gigaSec/0. Files/Pasted image 20220624105157.png
+gigaSec/0. Files/Pasted image 20220624111339.png
+gigaSec/0. Files/Pasted image 20220625105153.png
+gigaSec/0. Files/Pasted image 20220703150554.png
+gigaSec/0. Files/Pasted image 20220703152536.png
+gigaSec/0. Files/Pasted image 20220703152619.png
+gigaSec/0. Files/Pasted image 20220703152623.png
+gigaSec/0. Files/Pasted image 20220704112229.png
+gigaSec/0. Files/Pasted image 20220706181812.png
+gigaSec/0. Files/Pasted image 20220707082319.png
+gigaSec/0. Files/Pasted image 20220707082509.png
+gigaSec/0. Files/Pasted image 20220707082519.png
+gigaSec/0. Files/Pasted image 20220707082530.png
+gigaSec/0. Files/Pasted image 20220707204451.png
+gigaSec/0. Files/Pasted image 20220707204539.png
+gigaSec/0. Files/Pasted image 20220707205229.png
+gigaSec/0. Files/Pasted image 20220708103417.png
+gigaSec/0. Files/Pasted image 20220708153455.png
+gigaSec/0. Files/Pasted image 20220709083858.png
+gigaSec/0. Files/Pasted image 20220709145529.png
+gigaSec/0. Files/Pasted image 20220709151747.png
+gigaSec/0. Files/Pasted image 20220709161828.png
+gigaSec/0. Files/Pasted image 20220709161830.png
+gigaSec/0. Files/Pasted image 20220709182603.png
+gigaSec/0. Files/Pasted image 20220712174912.png
+gigaSec/0. Files/Pasted image 20220713192432.png
+gigaSec/0. Files/Pasted image 20220714172029.png
+gigaSec/0. Files/Pasted image 20220714172031.png
+gigaSec/0. Files/Pasted image 20220714172040.png
+gigaSec/0. Files/Pasted image 20220714172218.png
+gigaSec/0. Files/Pasted image 20220720143606.png
+gigaSec/0. Files/Pasted image 20220720150914.png
+gigaSec/0. Files/Pasted image 20220721111223.png
+gigaSec/0. Files/Pasted image 20220726112847.png
+gigaSec/0. Files/Pasted image 20220727130121.png
+gigaSec/0. Files/Pasted image 20220727175252.png
+gigaSec/0. Files/Pasted image 20220727175256.png
+gigaSec/0. Files/Pasted image 20220727222257.png
+gigaSec/0. Files/Pasted image 20220729183806.png
+gigaSec/0. Files/Pasted image 20220729183813.png
+gigaSec/0. Files/Pasted image 20220731181629.png
+gigaSec/0. Files/Pasted image 20220802161032.png
+gigaSec/0. Files/Pasted image 20220802203614.png
+gigaSec/0. Files/Pasted image 20220806230912.png
+gigaSec/0. Files/Pasted image 20220808155048.png
+gigaSec/0. Files/Pasted image 20220809112907.png
+gigaSec/0. Files/Pasted image 20220811110138.png
+gigaSec/0. Files/Pasted image 20220811154920.png
+gigaSec/0. Files/Pasted image 20220811155010.png
+gigaSec/0. Files/Pasted image 20220811155619.png
+gigaSec/0. Files/Pasted image 20220907104144.png
+gigaSec/0. Files/Pasted image 20220911110119.png
+gigaSec/0. Files/Pasted image 20220911165736.png
+gigaSec/0. Files/Pasted image 20220913160942.png
+gigaSec/0. Files/Pasted image 20220913161339.png
+gigaSec/0. Files/Pasted image 20220913161501.png
+gigaSec/0. Files/Pasted image 20220913161505.png
+gigaSec/0. Files/Pasted image 20220918134814.png
+gigaSec/0. Files/Pasted image 20220920092931.png
+gigaSec/0. Files/Pasted image 20220922154000.png
+gigaSec/0. Files/Pasted image 20221001142946.png
+gigaSec/0. Files/Pasted image 20221006183850.png
+gigaSec/0. Files/Pasted image 20221007093428.png
+gigaSec/0. Files/Pasted image 20221008111718.png
+gigaSec/0. Files/Pasted image 20221008111727.png
+gigaSec/0. Files/Pasted image 20221009104332.png
+gigaSec/0. Files/Pasted image 20221010151631.png
+gigaSec/0. Files/Pasted image 20221015102233.png
+gigaSec/0. Files/Pasted image 20221015102459.png
+gigaSec/0. Files/path-to-project.png
+gigaSec/0. Files/PCI VS EPS 2.png
+gigaSec/0. Files/PCI vs EPS.png
+gigaSec/0. Files/ping1.png
+gigaSec/0. Files/public-private.png
+gigaSec/0. Files/ring_topology.png
+gigaSec/0. Files/router.png
+gigaSec/0. Files/Sata.jpg
+gigaSec/0. Files/sources1.png
+gigaSec/0. Files/ssh1.png
+gigaSec/0. Files/star_topology.png
+gigaSec/0. Files/stealthscan.png
+gigaSec/0. Files/switches.png
+gigaSec/0. Files/TCP vs UDP.png
+gigaSec/0. Files/tcpdog.png
+gigaSec/0. Files/threewayhandshake.png
+gigaSec/0. Files/TTL.png
+gigaSec/0. Files/udpdog.png
+gigaSec/0. Files/what-is-flow-control-in-networking-stop-and-wait-9aa500574b46602e.jpg
+gigaSec/0. Files/working_backwards.png
+gigaSec/1. Templates/Dictionary Template.md
+gigaSec/1. Templates/Map of Content.md
+gigaSec/1. Templates/Note Template.md
+gigaSec/1. Templates/Permanent Note.md
+gigaSec/2. Notes/1 - Physical Layer.md
+gigaSec/2. Notes/2 - Data Link Layer.md
+gigaSec/2. Notes/2022-10-01.md
+gigaSec/2. Notes/2022-10-05.md
+gigaSec/2. Notes/3 - Network Layer.md
+gigaSec/2. Notes/4 - Transport Layer.md
+gigaSec/2. Notes/5 - Session Layer.md
+gigaSec/2. Notes/5 Components of Information Systems.md
+gigaSec/2. Notes/6 - Presentation Layer.md
+gigaSec/2. Notes/7- Application Layer.md
+gigaSec/2. Notes/A roadmap of learning how to program.md
+gigaSec/2. Notes/A.md
+gigaSec/2. Notes/Abbreviations tags or Acronym Tags.md
+gigaSec/2. Notes/absolute length data type units - a fixed size.md
+gigaSec/2. Notes/Absolute URL.md
+gigaSec/2. Notes/Abstraction in programming.md
+gigaSec/2. Notes/Accessing Items in Array - Loops and other methods.md
+gigaSec/2. Notes/Accidentally hit Ctrl+Z in Vim.md
+gigaSec/2. Notes/Active Voice.md
+gigaSec/2. Notes/Activity Questions.md
+gigaSec/2. Notes/Activity today.md
+gigaSec/2. Notes/Adding informations to html document - Name and content Attributes.md
+gigaSec/2. Notes/Adding users in Linux.md
+gigaSec/2. Notes/Adding `.svg` on html page.md
+gigaSec/2. Notes/Address vs Pointers in C.md
+gigaSec/2. Notes/adjective.md
+gigaSec/2. Notes/Admonition Cheat Sheet.md
+gigaSec/2. Notes/adverb.md
+gigaSec/2. Notes/Advice in programming that I found on reddit.md
+gigaSec/2. Notes/Aggregate Expressions (Functions).md
+gigaSec/2. Notes/AHK - Authotkey Script.md
+gigaSec/2. Notes/AI Tools - Artificial Intelligence tools.md
+gigaSec/2. Notes/allocate memory.md
+gigaSec/2. Notes/Alternative CSS Box Model.md
+gigaSec/2. Notes/Always close files when opening them.md
+gigaSec/2. Notes/Always remember overflow when developing sites - Overflowing Content in CSS.md
+gigaSec/2. Notes/appimage file installer in linux.md
+gigaSec/2. Notes/Arch Linux Installation.md
+gigaSec/2. Notes/Arguments in linux are called flags or switches.md
+gigaSec/2. Notes/ARP Protocl and its types.md
+gigaSec/2. Notes/ARP Protocol and how it works.md
+gigaSec/2. Notes/ARP Protocol purpose in networking.md
+gigaSec/2. Notes/ARPANET.md
+gigaSec/2. Notes/Arrays in Javascript.md
+gigaSec/2. Notes/Art Direction.md
+gigaSec/2. Notes/article semantic tag in HTML.md
+gigaSec/2. Notes/AS keyword to give an alias.md
+gigaSec/2. Notes/aside semantic tag in HTML - sidebar.md
+gigaSec/2. Notes/Assignment Operators Explained the behind the scenes.md
+gigaSec/2. Notes/Assignment.md
+gigaSec/2. Notes/Associate Array.md
+gigaSec/2. Notes/ASYmmetric Encryption.md
+gigaSec/2. Notes/asymmetric.md
+gigaSec/2. Notes/Attributes inside of tags.md
+gigaSec/2. Notes/authoritative server.md
+gigaSec/2. Notes/Automatic Variables.md
+gigaSec/2. Notes/Base Number Conversion.md
+gigaSec/2. Notes/bash - shell.md
+gigaSec/2. Notes/Basic Data Types in C.md
+gigaSec/2. Notes/Batch Scripting.md
+gigaSec/2. Notes/Being a team player in software engineering.md
+gigaSec/2. Notes/bin - directory.md
+gigaSec/2. Notes/Binary Search.md
+gigaSec/2. Notes/Binary Trees.md
+gigaSec/2. Notes/bit.md
+gigaSec/2. Notes/Bitwise Operators.md
+gigaSec/2. Notes/Blind SQL Injection.md
+gigaSec/2. Notes/Block Level Statement.md
+gigaSec/2. Notes/Block.md
+gigaSec/2. Notes/blockquote tag - Blockquotes in HTML.md
+gigaSec/2. Notes/Blue Team Guide on preventing ransomware.md
+gigaSec/2. Notes/Boolean Attributes.md
+gigaSec/2. Notes/boot - directory.md
+gigaSec/2. Notes/bootstrap code area.md
+gigaSec/2. Notes/Border box.md
+gigaSec/2. Notes/Branding.md
+gigaSec/2. Notes/Broken Access Control.md
+gigaSec/2. Notes/Broken Authentication.md
+gigaSec/2. Notes/Buffer Overflow.md
+gigaSec/2. Notes/Buffering.md
+gigaSec/2. Notes/Bug Bounty.md
+gigaSec/2. Notes/Built-in browser in Burp Suite can't launch in linux.md
+gigaSec/2. Notes/Bumblebee Status Bar.md
+gigaSec/2. Notes/Burp Suite Basics.md
+gigaSec/2. Notes/Burp Suite Repeater.md
+gigaSec/2. Notes/Bus Topology.md
+gigaSec/2. Notes/byte.md
+gigaSec/2. Notes/C - Add an item to the BEGINNING of the linked list.md
+gigaSec/2. Notes/C - Add an item to the END of linked list.md
+gigaSec/2. Notes/C - Code Snippets Strings.md
+gigaSec/2. Notes/C - Command line arguments --argc and argv.md
+gigaSec/2. Notes/C - Creating a node or linked list using struct.md
+gigaSec/2. Notes/C - File Handling.md
+gigaSec/2. Notes/C - Freeing a linked list.md
+gigaSec/2. Notes/C - Iteratively add nodes of a NEW linked list.md
+gigaSec/2. Notes/C - Iteratively add nodes to the end of an EXISTING linked list.md
+gigaSec/2. Notes/C - Memory or NULL check of malloc.md
+gigaSec/2. Notes/C - Operators.md
+gigaSec/2. Notes/C - Print each value of a linked list.md
+gigaSec/2. Notes/C - Print Leading Zeros in C.md
+gigaSec/2. Notes/C - printf.md
+gigaSec/2. Notes/C - Programming Language.md
+gigaSec/2. Notes/C - Remove node by INDEX of linked list and remembers what the value of it.md
+gigaSec/2. Notes/C - Removes FIRST node and remembers what the value of it.md
+gigaSec/2. Notes/C - Removes LAST node and remembers what the value of it.md
+gigaSec/2. Notes/C - Removes node by VALUE and also remembers what the value of it.md
+gigaSec/2. Notes/C - Reverse a linked list.md
+gigaSec/2. Notes/C - Strings.md
+gigaSec/2. Notes/C truncates decimals when doing division on integers.md
+gigaSec/2. Notes/C- goto keyword to get out of a nested loop.md
+gigaSec/2. Notes/Cascade.md
+gigaSec/2. Notes/Cast - unary operator in C that forces a data type to be something else.md
+gigaSec/2. Notes/Certificates - verifies legitimacy of websites.md
+gigaSec/2. Notes/Change display type of an HTML element - display property.md
+gigaSec/2. Notes/Character Constant to make char ASCII compatible.md
+gigaSec/2. Notes/charset  attribute (specifies character encoding).md
+gigaSec/2. Notes/Check if string consists of ONLY letters.md
+gigaSec/2. Notes/Cipher.md
+gigaSec/2. Notes/Ciphertext.md
+gigaSec/2. Notes/Citations in HTML.md
+gigaSec/2. Notes/clickjacking is an iframe attack in HTML.md
+gigaSec/2. Notes/Client vs Server Side Scripting Languanges.md
+gigaSec/2. Notes/Closed Captions in HTML.md
+gigaSec/2. Notes/Codec.md
+gigaSec/2. Notes/Coded The Hidden Languange of Computers.md
+gigaSec/2. Notes/Command Line Arguments in Python.md
+gigaSec/2. Notes/Command Mode keyboard shortcuts - VIM.md
+gigaSec/2. Notes/Command TO INSERT MODE Keyboard Shortcuts- VIM.md
+gigaSec/2. Notes/Common Directories-Folders of Linux.md
+gigaSec/2. Notes/Compile C source code using command prompt.md
+gigaSec/2. Notes/Compiling explained--turning source code into `1's` and `0's`.md
+gigaSec/2. Notes/Components with Known Vulnerabilities.md
+gigaSec/2. Notes/Computers can't read human dates - Dates and Times tags in HTML.md
+gigaSec/2. Notes/Conditional Expression as one liner of --if else-- in C.md
+gigaSec/2. Notes/Conjunction.md
+gigaSec/2. Notes/Const Qualifer to prevent objects from being changed.md
+gigaSec/2. Notes/Constants in Javascript.md
+gigaSec/2. Notes/Constants.md
+gigaSec/2. Notes/Content box.md
+gigaSec/2. Notes/Context affects the meaning of the word.md
+gigaSec/2. Notes/continguous.md
+gigaSec/2. Notes/Convert string to uppercase.md
+gigaSec/2. Notes/Converting from strings and arrays vice versa.md
+gigaSec/2. Notes/Cookies 101.md
+gigaSec/2. Notes/Cookies in Javascript.md
+gigaSec/2. Notes/Copying in Command Mode keyboard shortcuts - VIM.md
+gigaSec/2. Notes/Copying string pointers in C isn't straightforward.md
+gigaSec/2. Notes/CPU vs GPU (To summarize yet).md
+gigaSec/2. Notes/Crawling.md
+gigaSec/2. Notes/Creating Links in HTML.md
+gigaSec/2. Notes/CronJob - Task Scheduler but on Linux.md
+gigaSec/2. Notes/Cronjob Operators.md
+gigaSec/2. Notes/Cross-Site Scripting (or XSS).md
+gigaSec/2. Notes/Cryptanalysis.md
+gigaSec/2. Notes/Cryptography.md
+gigaSec/2. Notes/csh - shell.md
+gigaSec/2. Notes/CSS Layout.md
+gigaSec/2. Notes/CSS Padding pushes content away from borders.md
+gigaSec/2. Notes/CSS provides universal property values for controlling inheritance.md
+gigaSec/2. Notes/CSS Selectors.md
+gigaSec/2. Notes/CSS Values and Units.md
+gigaSec/2. Notes/CSS Website Tools.md
+gigaSec/2. Notes/CSS.md
+gigaSec/2. Notes/CSV - Explained.md
+gigaSec/2. Notes/CSV in Python.md
+gigaSec/2. Notes/Cursor Location in Command Mode keyboard shortcuts - VIM.md
+gigaSec/2. Notes/Cybersecurity Lingo.md
+gigaSec/2. Notes/Cybersecurity news.md
+gigaSec/2. Notes/Cybersecurity researchers and bug hunters face real-life threats.md
+gigaSec/2. Notes/Daemons in Linux.md
+gigaSec/2. Notes/Data Types 101 in programming.md
+gigaSec/2. Notes/Database Normalization explained.md
+gigaSec/2. Notes/debugger.md
+gigaSec/2. Notes/Debugging CSS.md
+gigaSec/2. Notes/Decimal to Binary.md
+gigaSec/2. Notes/Decimal to Hexadecimal.md
+gigaSec/2. Notes/Decimals aren't precise in programming -- Floating Point Imprecision.md
+gigaSec/2. Notes/Decision Support Systems (DSS).md
+gigaSec/2. Notes/Declaration.md
+gigaSec/2. Notes/Define new or unfamiliar terms.md
+gigaSec/2. Notes/Define new terms that might be unfamiliar to your target audience.md
+gigaSec/2. Notes/definining Dictionary in Python - Code Snippet.md
+gigaSec/2. Notes/DELETE Method.md
+gigaSec/2. Notes/Deletion in Command Mode keyboard shortcuts - VIM.md
+gigaSec/2. Notes/dev - directory.md
+gigaSec/2. Notes/DHCP Protocol purpose in networking.md
+gigaSec/2. Notes/Difference of User Options and Project Options in Burp Suite.md
+gigaSec/2. Notes/Different types of Data and Character Encoding.md
+gigaSec/2. Notes/Different Variables in C.md
+gigaSec/2. Notes/Dig command to manually query Recursive DNS Server.md
+gigaSec/2. Notes/Digital Signatures - proves authenticity of files.md
+gigaSec/2. Notes/DISTINCT keyword to remove duplicates.md
+gigaSec/2. Notes/div - BLOCK level non semantic element.md
+gigaSec/2. Notes/dividend.md
+gigaSec/2. Notes/DNS in detail.md
+gigaSec/2. Notes/DO NOT USE important flag in CSS.md
+gigaSec/2. Notes/Document Fragments to link to a specific part of an HTML document.md
+gigaSec/2. Notes/DOM - Document Object Model.md
+gigaSec/2. Notes/Dynamic memory allocation.md
+gigaSec/2. Notes/Dynamic Web Server.md
+gigaSec/2. Notes/Dynamically typed language.md
+gigaSec/2. Notes/Each Layer often name their data differently.md
+gigaSec/2. Notes/Elements in HTML - Inline vs Block Level vs Empty-Void.md
+gigaSec/2. Notes/Elements in HTML.md
+gigaSec/2. Notes/Embed external resources such as pdf - `embed` and `object` element.md
+gigaSec/2. Notes/Embedding other webpages - iframe element.md
+gigaSec/2. Notes/emphasis tag is not ITALIC.md
+gigaSec/2. Notes/Encapsulation and De-Encapsulation.md
+gigaSec/2. Notes/Encoders have less success on signature-based antivirus, here's why.md
+gigaSec/2. Notes/Encoding.md
+gigaSec/2. Notes/Encryption 101.md
+gigaSec/2. Notes/Encryption Lingo.md
+gigaSec/2. Notes/Encryption.md
+gigaSec/2. Notes/endpoint.md
+gigaSec/2. Notes/Enterprise computing systems.md
+gigaSec/2. Notes/Escape Sequences in C.md
+gigaSec/2. Notes/etc - directory.md
+gigaSec/2. Notes/event in javascript meaning.md
+gigaSec/2. Notes/EVERYTHING but on linux terminal.md
+gigaSec/2. Notes/example of HTTP reQUEST by CLIENT.md
+gigaSec/2. Notes/example of RESPONSE from WEBSERVER.md
+gigaSec/2. Notes/Example SQL query that uses LEFT JOIN clause.md
+gigaSec/2. Notes/Executive Support Systems (ESS).md
+gigaSec/2. Notes/Exercise Convert Long sentences into lists.md
+gigaSec/2. Notes/Exercise Eliminate Extra Words.md
+gigaSec/2. Notes/Exercise in Lists.md
+gigaSec/2. Notes/Exercise in Parallel.md
+gigaSec/2. Notes/Exercise of Reduce There is-are.md
+gigaSec/2. Notes/Exiting vim.md
+gigaSec/2. Notes/Explaining Diffie Hellman Key Exchange.md
+gigaSec/2. Notes/Exploit Modules and categories of Metasploit.md
+gigaSec/2. Notes/Exploit.md
+gigaSec/2. Notes/Expression.md
+gigaSec/2. Notes/Extensions in Burp Suite.md
+gigaSec/2. Notes/External Variables to declare variables outside of file or functions.md
+gigaSec/2. Notes/Firefox CSS.md
+gigaSec/2. Notes/Firefox.md
+gigaSec/2. Notes/footer semantic tag in HTML.md
+gigaSec/2. Notes/For Loop In C.md
+gigaSec/2. Notes/form of be.md
+gigaSec/2. Notes/Fragment.md
+gigaSec/2. Notes/Freeing a memory in C and how it works.md
+gigaSec/2. Notes/fscanf() in C.md
+gigaSec/2. Notes/fseek() in C - Code Snippet.md
+gigaSec/2. Notes/FTP - File Transfer Protocol.md
+gigaSec/2. Notes/Function Prototypes.md
+gigaSec/2. Notes/GET Method - gets a specific resource.md
+gigaSec/2. Notes/Get size of string.md
+gigaSec/2. Notes/GIT and GITHUB.md
+gigaSec/2. Notes/Give an element mininum or maximum size.md
+gigaSec/2. Notes/Give execute permission to a file.md
+gigaSec/2. Notes/GPU Cores.md
+gigaSec/2. Notes/GPUs and how to compare them.md
+gigaSec/2. Notes/GREP - uses regex to search texts in linux files.md
+gigaSec/2. Notes/group file in root-etc directory explained.md
+gigaSec/2. Notes/GUID (Globally Unique IDentifies).md
+gigaSec/2. Notes/Guide on how to use my vault.md
+gigaSec/2. Notes/Hacker pulled of a fake job  interview and tricked Axie Infinity's senior engineer, that stole them $620 million dollars.md
+gigaSec/2. Notes/Hacker101.md
+gigaSec/2. Notes/Hacking Group revictimizes ransomware victim even if ransom was already paid.md
+gigaSec/2. Notes/Handling Text Different Directions.md
+gigaSec/2. Notes/Hardware Web Server.md
+gigaSec/2. Notes/Hash Table.md
+gigaSec/2. Notes/Hashing.md
+gigaSec/2. Notes/Head in HTML.md
+gigaSec/2. Notes/HEAD Method - gets metadata info.md
+gigaSec/2. Notes/header semantic tag in HTML.md
+gigaSec/2. Notes/HEADERS used when CLIENT reQUESTS to web servers.md
+gigaSec/2. Notes/HEADERS used when WEB-SERVER reSPOND to client.md
+gigaSec/2. Notes/home - directory.md
+gigaSec/2. Notes/Host-Domain.md
+gigaSec/2. Notes/How a browser takes CSS and HTML and turns that into a webpage.md
+gigaSec/2. Notes/How are cookies saved on your computer.md
+gigaSec/2. Notes/How are cracked versions of software created and why are developers not able to prevent it.md
+gigaSec/2. Notes/How communication happens between webserver and client-user.md
+gigaSec/2. Notes/How CSS differently treats form elements.md
+gigaSec/2. Notes/How CSS differently treats images and video elements.md
+gigaSec/2. Notes/How google search works.md
+gigaSec/2. Notes/How I take note.md
+gigaSec/2. Notes/How I take notes.md
+gigaSec/2. Notes/How to choose the right container, media format.md
+gigaSec/2. Notes/How to do SQL Injection.md
+gigaSec/2. Notes/How to implement multiple media formats.md
+gigaSec/2. Notes/How to prevent clickjacking.md
+gigaSec/2. Notes/How to think in Graphs.md
+gigaSec/2. Notes/How to think recursively.md
+gigaSec/2. Notes/How uber was hacked in 2022.md
+gigaSec/2. Notes/HTML Parser is sort of like compiler in programming but a more forgiving one.md
+gigaSec/2. Notes/HTML Website Tools.md
+gigaSec/2. Notes/HTML will reduce whitespaces to 1 only.md
+gigaSec/2. Notes/HTML.md
+gigaSec/2. Notes/HTTP - HyperText Transfer Protocol.md
+gigaSec/2. Notes/HTTP request helps user send instructions to web-server.md
+gigaSec/2. Notes/HTTP Response Status Codes.md
+gigaSec/2. Notes/HTTP server.md
+gigaSec/2. Notes/HTTPS - A secure version of HTTP.md
+gigaSec/2. Notes/HTTPS Symmetric Encryption.md
+gigaSec/2. Notes/HTTPS vs SSH, what to choose in github.md
+gigaSec/2. Notes/i3 Tiling Manager.md
+gigaSec/2. Notes/ICMP - Internet Control Message Protocol.md
+gigaSec/2. Notes/identifiers.md
+gigaSec/2. Notes/Identify if a number is a hexadecimal.md
+gigaSec/2. Notes/imperative verb.md
+gigaSec/2. Notes/Important flag overrides all specificity.md
+gigaSec/2. Notes/In Hacking, Knowledge is power.md
+gigaSec/2. Notes/In-Band SQL.md
+gigaSec/2. Notes/Increment and Decrement Operators.md
+gigaSec/2. Notes/Indexing.md
+gigaSec/2. Notes/INFORMATION Gathering - Linux Commands.md
+gigaSec/2. Notes/Inheritance.md
+gigaSec/2. Notes/Initialization.md
+gigaSec/2. Notes/Injection.md
+gigaSec/2. Notes/Inline Element.md
+gigaSec/2. Notes/inner display type.md
+gigaSec/2. Notes/INNER JOIN to combine tables.md
+gigaSec/2. Notes/Insecure Deserialization.md
+gigaSec/2. Notes/Insert Mode.md
+gigaSec/2. Notes/Inserting images in html - img tag.md
+gigaSec/2. Notes/Inspector Interface Explained - Burp Suite.md
+gigaSec/2. Notes/Installing fonts in Linux.md
+gigaSec/2. Notes/Insufficient Logging and Monitoring.md
+gigaSec/2. Notes/Integer Overflow or Underflow is dangerous.md
+gigaSec/2. Notes/internet's root DNS servers.md
+gigaSec/2. Notes/Intro to Lan.md
+gigaSec/2. Notes/Intro To Research.md
+gigaSec/2. Notes/IP - Internet Protocol.md
+gigaSec/2. Notes/IP Address and can someone hack me if they have it.md
+gigaSec/2. Notes/IP Address and how its used in communication between devices.md
+gigaSec/2. Notes/IS NULL to check if VALUE is EMPTY.md
+gigaSec/2. Notes/iwctl - Connecting to a network using Wifi.md
+gigaSec/2. Notes/Javascript Popup Boxes.md
+gigaSec/2. Notes/Javascript.md
+gigaSec/2. Notes/JOIN clause to combine tables.md
+gigaSec/2. Notes/Kata - Codewars.md
+gigaSec/2. Notes/Key Exchange explained.md
+gigaSec/2. Notes/Key.md
+gigaSec/2. Notes/kill - Killing Processes on linux.md
+gigaSec/2. Notes/Knowledge Work Systems (KWS).md
+gigaSec/2. Notes/ksh - shell.md
+gigaSec/2. Notes/LAB6 - World Cup.md
+gigaSec/2. Notes/Lab7 - Songs.md
+gigaSec/2. Notes/Lazarus Hacker Group.md
+gigaSec/2. Notes/LEFT - RIGHT - FULL JOIN to combine tables.md
+gigaSec/2. Notes/LIMIT and OFFSET to reduce data output.md
+gigaSec/2. Notes/linear probing.md
+gigaSec/2. Notes/Link to a specific part inside of HTML- Document Fragments.md
+gigaSec/2. Notes/Linked List Code Snippets.md
+gigaSec/2. Notes/Linked List.md
+gigaSec/2. Notes/Linking CSS and Javascript in HTML.md
+gigaSec/2. Notes/Linux - Traceroute command  OR  Windows - Tracert command.md
+gigaSec/2. Notes/Linux Configuration - Customization.md
+gigaSec/2. Notes/Linux File Manipulation (Rename, Move, Delete, Copy).md
+gigaSec/2. Notes/Linux File Permissions.md
+gigaSec/2. Notes/Linux Fundamentals.md
+gigaSec/2. Notes/Linux Shell Operators like `&` or `&&`.md
+gigaSec/2. Notes/List of topics that I take note with.md
+gigaSec/2. Notes/List of topics that I take notes with.md
+gigaSec/2. Notes/Lists in HTML - Description, Unordered, Ordered.md
+gigaSec/2. Notes/Lists of Protocols.md
+gigaSec/2. Notes/Log4jSHELL and why it's the most serious vulnerability in the internet.md
+gigaSec/2. Notes/Log4jSHELL is still not fixed! Exploit persists despite patch fix was released.md
+gigaSec/2. Notes/Logical addressing in networking.md
+gigaSec/2. Notes/Longhand properties of CSS background.md
+gigaSec/2. Notes/Looping in Python.md
+gigaSec/2. Notes/ls - Show the contents of specified folder-directory.md
+gigaSec/2. Notes/Luna ransomware encrypts Windows, Linux and ESXi systems - Cross Platform Ransomware.md
+gigaSec/2. Notes/MAC Address and the meaning of its numbers.md
+gigaSec/2. Notes/MAC address.md
+gigaSec/2. Notes/Mail forwarding option in href.md
+gigaSec/2. Notes/main semantic tag in HTML.md
+gigaSec/2. Notes/Make HTML Tables be readable for  screen readers.md
+gigaSec/2. Notes/Make text show either horizontally or vertically with writing-mode CSS Property.md
+gigaSec/2. Notes/Malloc in C Explained.md
+gigaSec/2. Notes/Management Information Systems (MIS).md
+gigaSec/2. Notes/Manipulate the background - CSS Background Property.md
+gigaSec/2. Notes/Manipulating Numbers in SQL.md
+gigaSec/2. Notes/Margin box.md
+gigaSec/2. Notes/Media Container Formats.md
+gigaSec/2. Notes/Media Formats in HTML.md
+gigaSec/2. Notes/Merge Sort.md
+gigaSec/2. Notes/Metasploit Payload.md
+gigaSec/2. Notes/Metasploit Versions - Pro vs Framework.md
+gigaSec/2. Notes/Metasploit.md
+gigaSec/2. Notes/Methods - defines the actions required for the web server to perform.md
+gigaSec/2. Notes/Mindset when dealing with coding errors (logical error, bug etc..).md
+gigaSec/2. Notes/MOC Artificial Intelligence.md
+gigaSec/2. Notes/MOC Browser.md
+gigaSec/2. Notes/MOC CS50.md
+gigaSec/2. Notes/MOC Cybersecurity.md
+gigaSec/2. Notes/MOC Graph Theory.md
+gigaSec/2. Notes/MOC Information System.md
+gigaSec/2. Notes/MOC Linux.md
+gigaSec/2. Notes/MOC Networking.md
+gigaSec/2. Notes/MOC Obsidian.md
+gigaSec/2. Notes/MOC Operating System.md
+gigaSec/2. Notes/MOC PC-Hardware.md
+gigaSec/2. Notes/MOC Programming Languanges.md
+gigaSec/2. Notes/MOC Programming.md
+gigaSec/2. Notes/MOC Search Engine Optimization.md
+gigaSec/2. Notes/MOC Technical Writing.md
+gigaSec/2. Notes/MOC Web Development.md
+gigaSec/2. Notes/MOC Windows.md
+gigaSec/2. Notes/Modes parameter in fopen().md
+gigaSec/2. Notes/Modulus Operator.md
+gigaSec/2. Notes/More DNS Record Types.md
+gigaSec/2. Notes/Multiple media formats must be used in HTML.md
+gigaSec/2. Notes/Multiple Modes in fopen().md
+gigaSec/2. Notes/nav semantic tag in HTML - navigation bar.md
+gigaSec/2. Notes/Navigate file system - Linux Commands.md
+gigaSec/2. Notes/nibble.md
+gigaSec/2. Notes/nmap - ping sweep (-sn).md
+gigaSec/2. Notes/NMAP Scripting Engine (NSE).md
+gigaSec/2. Notes/No ideal semantic element to group items together - Non-Semantic Wrapper.md
+gigaSec/2. Notes/Non-Relational Database explained.md
+gigaSec/2. Notes/noun.md
+gigaSec/2. Notes/NULL, FIN and Xmas TCP.md
+gigaSec/2. Notes/Numbers in Javascript.md
+gigaSec/2. Notes/NVIDIA DLSS - Increase your FPS using this.md
+gigaSec/2. Notes/object-fit CSS property to really fit an image to a BOX.md
+gigaSec/2. Notes/Offensive Security vs Defensive Security.md
+gigaSec/2. Notes/Office Automation Systems (OAS).md
+gigaSec/2. Notes/Old way of taking notes.md
+gigaSec/2. Notes/One Liner assignment of value in different variables.md
+gigaSec/2. Notes/One liner css declarations - Shorthand Properties.md
+gigaSec/2. Notes/One Liner declaration of different variables.md
+gigaSec/2. Notes/One Liner For loop in C.md
+gigaSec/2. Notes/One Liner Stuffs in C.md
+gigaSec/2. Notes/OOP (Object Oriented Programming).md
+gigaSec/2. Notes/Operand.md
+gigaSec/2. Notes/opt - directory.md
+gigaSec/2. Notes/Orbit Linux Malware that hijacks Execution Flow.md
+gigaSec/2. Notes/ORDER BY clause to sort data in ascending or descending order.md
+gigaSec/2. Notes/Ordered List - shows NUMBERED list.md
+gigaSec/2. Notes/OS Command Injection.md
+gigaSec/2. Notes/OSI Model.md
+gigaSec/2. Notes/Other helpful switches for Firewall Evasion.md
+gigaSec/2. Notes/outer display type.md
+gigaSec/2. Notes/OWASP (Open Web Application Security Project).md
+gigaSec/2. Notes/p tag - Inline Quotations in HTML.md
+gigaSec/2. Notes/Padding box.md
+gigaSec/2. Notes/parser.md
+gigaSec/2. Notes/Partition the disks.md
+gigaSec/2. Notes/Partitioning the disks.md
+gigaSec/2. Notes/Parts of a CSS Box Model.md
+gigaSec/2. Notes/Parts of a DNS.md
+gigaSec/2. Notes/Parts of Speech - Pronouns, Preposition, Conjunction, Transition and more.md
+gigaSec/2. Notes/Pascal Architecture.md
+gigaSec/2. Notes/Passphrase.md
+gigaSec/2. Notes/passwd file in root-etc directory explained.md
+gigaSec/2. Notes/past participle verb.md
+gigaSec/2. Notes/Path.md
+gigaSec/2. Notes/Payload.md
+gigaSec/2. Notes/PC - CPU.md
+gigaSec/2. Notes/PC - GPU.md
+gigaSec/2. Notes/PC - Motherboard.md
+gigaSec/2. Notes/Percentages in margins and padding.md
+gigaSec/2. Notes/PGP, GPG and AEs.md
+gigaSec/2. Notes/Physical Difference between PCIe and EPS.md
+gigaSec/2. Notes/PICOctf.md
+gigaSec/2. Notes/Ping command for testing a connection.md
+gigaSec/2. Notes/Planning a website - Information Architecture.md
+gigaSec/2. Notes/PMBR (Protective Master Boot Record).md
+gigaSec/2. Notes/Pointers as parameters in a function CODE SNIPPET.md
+gigaSec/2. Notes/Port scanning with NMAP.md
+gigaSec/2. Notes/Port.md
+gigaSec/2. Notes/PORTS 101.md
+gigaSec/2. Notes/POST Method - CREATES a new resource.md
+gigaSec/2. Notes/Precedence and Order of Evaluation between Operators in C.md
+gigaSec/2. Notes/Precisely assign the cells in rows and columns - id and header attributes in table.md
+gigaSec/2. Notes/Preposition.md
+gigaSec/2. Notes/printf and manipulating its outputs.md
+gigaSec/2. Notes/printf is not part of the C language.md
+gigaSec/2. Notes/Problem Set 6.md
+gigaSec/2. Notes/Problem Set 7.md
+gigaSec/2. Notes/Problem solving 101.md
+gigaSec/2. Notes/Problem Solving for Programmers.md
+gigaSec/2. Notes/Processes on Linux.md
+gigaSec/2. Notes/Programming Lingo.md
+gigaSec/2. Notes/Programming Paradigms.md
+gigaSec/2. Notes/Project Options and their sub-tabs in Burp Suite explained.md
+gigaSec/2. Notes/Pronouns.md
+gigaSec/2. Notes/property, content.md
+gigaSec/2. Notes/Protecting against buffer overflow.md
+gigaSec/2. Notes/PSET5 - Speller.md
+gigaSec/2. Notes/Punycode in URL deceives you into believing its the real website.md
+gigaSec/2. Notes/PUT Method - UPDATES an existing resource.md
+gigaSec/2. Notes/Python - File Handling.md
+gigaSec/2. Notes/Python Dictionaries - Dictionary.md
+gigaSec/2. Notes/Qualifiers that extends basic data types.md
+gigaSec/2. Notes/Quantifiers or Repetition of Characters - RegEX.md
+gigaSec/2. Notes/Quantum Computers and the future of Encryption.md
+gigaSec/2. Notes/Quantum Computers.md
+gigaSec/2. Notes/query in sql explained.md
+gigaSec/2. Notes/Query String.md
+gigaSec/2. Notes/Questions to ask when solving a problem.md
+gigaSec/2. Notes/Quick CSS table format.md
+gigaSec/2. Notes/Quick Info about EternalBlue.md
+gigaSec/2. Notes/Ransomware - 1.5 Million People got their files back without paying ransomware.md
+gigaSec/2. Notes/Raster Images.md
+gigaSec/2. Notes/rate limiting.md
+gigaSec/2. Notes/RCE (Remote Code Execution).md
+gigaSec/2. Notes/Reading from a text file in C - Code Snippet.md
+gigaSec/2. Notes/Recursion Explained.md
+gigaSec/2. Notes/Recursion.md
+gigaSec/2. Notes/Recursive DNS Server.md
+gigaSec/2. Notes/RegEX - REGular EXpressions.md
+gigaSec/2. Notes/Relational and Logical Operators.md
+gigaSec/2. Notes/Relational Database explained.md
+gigaSec/2. Notes/relative length data type units - changes size relative to something else.md
+gigaSec/2. Notes/Relative URL.md
+gigaSec/2. Notes/Removing Items in Array - Javascript.md
+gigaSec/2. Notes/Repeater Interface Explained - Burp Suite.md
+gigaSec/2. Notes/Replaced elements behave differently than other elements.md
+gigaSec/2. Notes/Requesting a domain name.md
+gigaSec/2. Notes/Resolution Switching.md
+gigaSec/2. Notes/Responsive Images.md
+gigaSec/2. Notes/reverse shell.md
+gigaSec/2. Notes/reverse-engineering.md
+gigaSec/2. Notes/Ring Topology.md
+gigaSec/2. Notes/Rockstar.md
+gigaSec/2. Notes/Root Directory and the peasant folders it reigns over explained.md
+gigaSec/2. Notes/Root Directory is the GOD of all folders.md
+gigaSec/2. Notes/Routers and Switch.md
+gigaSec/2. Notes/RSA in CTF.md
+gigaSec/2. Notes/Rules and Formality of naming variables.md
+gigaSec/2. Notes/Rules for when Automatic conversions of data types happens.md
+gigaSec/2. Notes/Saving file in vim.md
+gigaSec/2. Notes/Scheme.md
+gigaSec/2. Notes/Scoping in Burp Proxy.md
+gigaSec/2. Notes/SCP - Securely transfer files using SSH Protocol.md
+gigaSec/2. Notes/Search Syntax in Obsidian.md
+gigaSec/2. Notes/section semantic tag in HTML.md
+gigaSec/2. Notes/Securing home and offices.md
+gigaSec/2. Notes/Security Misconfiguration.md
+gigaSec/2. Notes/SELECT statements.md
+gigaSec/2. Notes/Selection in vim.md
+gigaSec/2. Notes/Semantics are tags that provide meaning.md
+gigaSec/2. Notes/Sensitive Data Exposure.md
+gigaSec/2. Notes/SEO Guide to Everything.md
+gigaSec/2. Notes/Serialization and Deserialization.md
+gigaSec/2. Notes/Server Side Website Programming.md
+gigaSec/2. Notes/Serving Search Results.md
+gigaSec/2. Notes/sh - shell.md
+gigaSec/2. Notes/Shell 101.md
+gigaSec/2. Notes/Shell Customization.md
+gigaSec/2. Notes/Shell Interpreters.md
+gigaSec/2. Notes/Shell Scripting.md
+gigaSec/2. Notes/Short -- long Qualifers.md
+gigaSec/2. Notes/Shortcut keys for Burp Suite.md
+gigaSec/2. Notes/Signal 3rd party data breach exposed 1900 phone numbers.md
+gigaSec/2. Notes/Signed or Unsigned, which one to choose.md
+gigaSec/2. Notes/Situations in which you may use !important flag value.md
+gigaSec/2. Notes/Sizing Items in CSS.md
+gigaSec/2. Notes/Socials.md
+gigaSec/2. Notes/Software Development Life Cycle.md
+gigaSec/2. Notes/Software Repos and Packages.md
+gigaSec/2. Notes/Software Web Server.md
+gigaSec/2. Notes/Solving problems is a logical thing and not an emotional one..md
+gigaSec/2. Notes/Some random long read about VIM I found online.md
+gigaSec/2. Notes/Some symbols can't be used in HTML - Special Characters or Entity References.md
+gigaSec/2. Notes/Source order.md
+gigaSec/2. Notes/span - INLINE level non semantic element.md
+gigaSec/2. Notes/Special Characters or Entity References in HTML.md
+gigaSec/2. Notes/Specificity.md
+gigaSec/2. Notes/Spectre and Meltdown - hardware design exploit.md
+gigaSec/2. Notes/speculative execution.md
+gigaSec/2. Notes/SQL - SQL Injection.md
+gigaSec/2. Notes/SQL Query and the Order of its syntax and execution.md
+gigaSec/2. Notes/SSH - Remotely execute commands on another device.md
+gigaSec/2. Notes/SSH Key Authentication in Cryptography.md
+gigaSec/2. Notes/Star Topology.md
+gigaSec/2. Notes/Statement.md
+gigaSec/2. Notes/Static Memory Allocation.md
+gigaSec/2. Notes/Static Variable is a cool technique used in functions.md
+gigaSec/2. Notes/static web server.md
+gigaSec/2. Notes/Steganography.md
+gigaSec/2. Notes/String Constant vs Character Constant.md
+gigaSec/2. Notes/Strings are contiguous or connected to each other.md
+gigaSec/2. Notes/Strings explained in depth.md
+gigaSec/2. Notes/Strings in Javascript.md
+gigaSec/2. Notes/strong tag is not BOLD.md
+gigaSec/2. Notes/Structs in C.md
+gigaSec/2. Notes/Structuring HTML with semantic tags.md
+gigaSec/2. Notes/Styling tables using CSS.md
+gigaSec/2. Notes/Styling Texts in CSS.md
+gigaSec/2. Notes/Subnet Mask.md
+gigaSec/2. Notes/Subnetting use IP address in three ways.md
+gigaSec/2. Notes/Subnetting's purpose in networking.md
+gigaSec/2. Notes/Subscript.md
+gigaSec/2. Notes/Subsitute Command to replace words.md
+gigaSec/2. Notes/substitution cipher.md
+gigaSec/2. Notes/SUM function in SQL.md
+gigaSec/2. Notes/Swim Swap Technique.md
+gigaSec/2. Notes/Switches of NMAP.md
+gigaSec/2. Notes/Symbolic Constants - fixed values that never changes throughout the program.md
+gigaSec/2. Notes/SYMmetric Encryption.md
+gigaSec/2. Notes/SYN Scan     (-sS).md
+gigaSec/2. Notes/Syntax and Lingo of CSS.md
+gigaSec/2. Notes/Tables in HTML.md
+gigaSec/2. Notes/Tags in HTML.md
+gigaSec/2. Notes/Task Manager in Linux, specifically ps command.md
+gigaSec/2. Notes/TCP - Transmission Control Protocol.md
+gigaSec/2. Notes/TCP SYN Scan   (-sT).md
+gigaSec/2. Notes/TCP vs UDP, Which to choose for Transport Layer.md
+gigaSec/2. Notes/TCP VS UDP.md
+gigaSec/2. Notes/TCP-IP Model.md
+gigaSec/2. Notes/Teach yourself programming in TEN YEARS.md
+gigaSec/2. Notes/Tells screen readers if cell belongs to either row or column - Scope attribute.md
+gigaSec/2. Notes/Template String Literals.md
+gigaSec/2. Notes/text stream.md
+gigaSec/2. Notes/The ANSI C Programming Languange - Book.md
+gigaSec/2. Notes/The best thing we can do today to JavaScript is to retire it.md
+gigaSec/2. Notes/The CSS Box Model.md
+gigaSec/2. Notes/The Internet.md
+gigaSec/2. Notes/The steps of Three-Way Handshake.md
+gigaSec/2. Notes/This controls which css rule applies to what element - Cascade - Specificity - Inheritance.md
+gigaSec/2. Notes/Tile Manager in Linuxtallation.md
+gigaSec/2. Notes/Time difference of dual booting between Linux and Windows.md
+gigaSec/2. Notes/timedatectl - Update system clock.md
+gigaSec/2. Notes/TLD server.md
+gigaSec/2. Notes/Tools in websites for specific tasks.md
+gigaSec/2. Notes/Tools.md
+gigaSec/2. Notes/Topology and its different designs.md
+gigaSec/2. Notes/Topology defined in Networking.md
+gigaSec/2. Notes/Transaction Processing Systems (TPS).md
+gigaSec/2. Notes/Transition.md
+gigaSec/2. Notes/Trees in Programming.md
+gigaSec/2. Notes/Tropic Trooper as a cyberespionage threat group.md
+gigaSec/2. Notes/truncation.md
+gigaSec/2. Notes/TryHackMe - HTTP in detail.md
+gigaSec/2. Notes/TryHackMe - Security Awareness.md
+gigaSec/2. Notes/TTL (Time-to-live) in Networking.md
+gigaSec/2. Notes/Two types of length data type units used in CSS.md
+gigaSec/2. Notes/Two Types of Memory Allocation.md
+gigaSec/2. Notes/Two types of Quotations tag in HTML.md
+gigaSec/2. Notes/Types of Elements in HTML - Inline vs Block Level vs Empty-Void.md
+gigaSec/2. Notes/Types of Information Systems that are used by businesses.md
+gigaSec/2. Notes/Types of Partition Table.md
+gigaSec/2. Notes/Types of Selectors.md
+gigaSec/2. Notes/UDP - User Datagram Protocol.md
+gigaSec/2. Notes/UDP Scan     (-sU).md
+gigaSec/2. Notes/UEFI (Unified Extensible Firmware Interface).md
+gigaSec/2. Notes/Unary Operators are satisfied with only one operand.md
+gigaSec/2. Notes/Understanding and Using C Pointers - Book.md
+gigaSec/2. Notes/Understanding the DOM helps you design, debug and maintain your CSS.md
+gigaSec/2. Notes/Undo and Redo in Command Mode keyboard shortcuts- Vim.md
+gigaSec/2. Notes/Unordered and Ordered Lists in HTML.md
+gigaSec/2. Notes/Unordered List - shows BULLETED list.md
+gigaSec/2. Notes/URL or Uniform Resource Locator.md
+gigaSec/2. Notes/Usage of some media formats requires money to legally use.md
+gigaSec/2. Notes/Use Acronyms Properly.md
+gigaSec/2. Notes/Use of API has skyrocketed and many web apps are vulnerable because of it.md
+gigaSec/2. Notes/Use Terms Consistently.md
+gigaSec/2. Notes/Use `Class` to target specific elements.md
+gigaSec/2. Notes/User Options and their sub tabs in Burp Suite explained.md
+gigaSec/2. Notes/User.md
+gigaSec/2. Notes/Using count in vim.md
+gigaSec/2. Notes/Valgrind.md
+gigaSec/2. Notes/Vector Graphics - svg files.md
+gigaSec/2. Notes/Vector Images.md
+gigaSec/2. Notes/Versions of Burp Suites and their differences.md
+gigaSec/2. Notes/VIDEOS and AUDIO in HTML.md
+gigaSec/2. Notes/VIM 101.md
+gigaSec/2. Notes/VIM Configuration.md
+gigaSec/2. Notes/VIM Keyboard Testing.md
+gigaSec/2. Notes/vimgrep - grep inside of vim.md
+gigaSec/2. Notes/Visual Mode.md
+gigaSec/2. Notes/Vocabulary on GPU.md
+gigaSec/2. Notes/Void Element.md
+gigaSec/2. Notes/Vulnerability.md
+gigaSec/2. Notes/Wasting Time on Solving Coding Problems.md
+gigaSec/2. Notes/Ways to analyze Binary Files on Linux.md
+gigaSec/2. Notes/Ways we(client) can send request to webserver - Get-Post-Put-Delete.md
+gigaSec/2. Notes/Web App Security Fundamentals.md
+gigaSec/2. Notes/Web Server has two meanings - Hardware or Software.md
+gigaSec/2. Notes/Web Server.md
+gigaSec/2. Notes/Websites to learn Regex.md
+gigaSec/2. Notes/Week 1 - Data Types, Imprecision and Overflows.md
+gigaSec/2. Notes/Week 2 - Arrays, Compiling, Command Line Argument, Strings.md
+gigaSec/2. Notes/Week 3 - BigO, Recursion, Data Search, Structs.md
+gigaSec/2. Notes/Week 4 - Memory, Malloc, Pointers, More Overflows.md
+gigaSec/2. Notes/Week 5 - Linked Lists, Trees, Data Structures.md
+gigaSec/2. Notes/Week 6 - Python.md
+gigaSec/2. Notes/Week 7 - SQL.md
+gigaSec/2. Notes/Week 8 - HTML, CSS, Javascript.md
+gigaSec/2. Notes/Weird small detail about increment and decrement operators in C.md
+gigaSec/2. Notes/What are headers and how is it used in HTTPS.md
+gigaSec/2. Notes/What is a database.md
+gigaSec/2. Notes/What is a Module in Metasploit.md
+gigaSec/2. Notes/What is an Interpreted Language.md
+gigaSec/2. Notes/What is an IP Address.md
+gigaSec/2. Notes/What is Burp Proxy.md
+gigaSec/2. Notes/What is DTD.md
+gigaSec/2. Notes/What is Networking.md
+gigaSec/2. Notes/What is protocol in networking.md
+gigaSec/2. Notes/What is the best way to learn coding faster!.md
+gigaSec/2. Notes/What is XML.md
+gigaSec/2. Notes/What is your experience when you are new to a software development team.md
+gigaSec/2. Notes/When does int values automatically converts to float.md
+gigaSec/2. Notes/When is Three-way handshake used in networking.md
+gigaSec/2. Notes/When you look up the solution to a coding problems.md
+gigaSec/2. Notes/WHERE clause to filter data.md
+gigaSec/2. Notes/WHOIS command to know more information about a domain.md
+gigaSec/2. Notes/Why are cookies used in HTTP.md
+gigaSec/2. Notes/Why bother learning OSI Model then.md
+gigaSec/2. Notes/Why do programming languages constantly deprecate stuff.md
+gigaSec/2. Notes/Why Encapsulation and De-encapsulation are important.md
+gigaSec/2. Notes/Why GPU have more cores than CPU.md
+gigaSec/2. Notes/Why the fuck would we ever learn recursion then.md
+gigaSec/2. Notes/Window Tiling Manager in Linux.md
+gigaSec/2. Notes/Windows Fundamentals.md
+gigaSec/2. Notes/Working with Proxy Tab.md
+gigaSec/2. Notes/Working with Target Tab.md
+gigaSec/2. Notes/Writing to a text File in C - Code Snippet.md
+gigaSec/2. Notes/Wrong syntax will still run in HTML.md
+gigaSec/2. Notes/XML Eternal Entity.md
+gigaSec/2. Notes/XXE Payload to read files from system.md
+gigaSec/2. Notes/XXE Payload use to replace words inside root element.md
+gigaSec/2. Notes/You will always have more Problems than solutions.md
+gigaSec/2. Notes/zsh - shell.md
+gigaSec/2. Notes/`let` to initialize variables in Javascript.md
+gigaSec/3. Introduction/Guide on how to use my vault.md
+gigaSec/3. Introduction/I'm ready! Now take me to your notes.md
+gigaSec/3. Introduction/Introductio.md
+gigaSec/3. Introduction/Introduction.md
+gigaSec/3. Introduction/MOC Technology.md
+gigaSec/3. Introduction/Quick guide about using my Obsidian Vault.md
+gigaSec/3. Introduction/Structure of my notes.md
+gigaSec/README.md
+hover-exec/gallery-587d0d97d70e5.png
+hover-exec/hover-exec.gif
+hover-exec/misc_tests.md
+hover-exec/README.md
+hover-exec/readmore.md
+img/CoggleTimpendean.png
+img/hdr_aurora.png
+img/hdr_grey.png
+img/timpendean.png
+img/yanomami_icon.png
+img/yanomami_icon_192.png
+img/yanomami_icon_512.png
+lib/pdfjs/web/images/loading-icon.gif
+lib/pdfjs/web/images/shadow.png
+lib/pdfjs/web/test.pdf
+lib/pdfjs/web/viewer.html
+lib/journal.md
+lib/stoplist.txt
+lib/stoplist2.txt
+lib/stoplistok.txt
+manuel/Attachments/2022-08-05 2022-08-05 13.35.42.excalidraw.md
+manuel/Attachments/2022-08-08 2022-08-08 17.37.38.excalidraw.md
+manuel/Attachments/Dev Log 2022-07-13 2022-07-13 18.03.34.excalidraw.md
+manuel/Attachments/Idea - SQL Test Data Generator 2022-07-05 09.58.01.excalidraw.md
+manuel/Attachments/Idea - SQL Test Data Generator 2022-07-05 10.02.59.excalidraw.md
+manuel/Excalidraw/Drawing 2022-07-03 20.48.52.excalidraw.md
+manuel/Excalidraw/Drawing 2022-07-27 18.10.44.excalidraw.md
+manuel/Flashcards/Doom Emacs Chatsheet.md
+manuel/Flashcards/FLASH - Emacs flashcards.md
+manuel/Flashcards/FLASH - Excel flashcards.md
+manuel/Flashcards/FLASH - Google Tag Manager Flashcards.md
+manuel/Flashcards/FLASH - Haskell flashcards.md
+manuel/Flashcards/FLASH - Intellij Flashcards.md
+manuel/Flashcards/FLASH - Javascript Flashcards.md
+manuel/Flashcards/FLASH - Mathematica Flashcards.md
+manuel/Flashcards/FLASH - Notetaking Flashcards.md
+manuel/Flashcards/FLASH - Unix General Flashcards.md
+manuel/Flashcards/FLASH - Web development flash cards.md
+manuel/Ideas/Obsidian/Idea - Add function to flag a flash card for future correction in the Obsidian plugin.md
+manuel/Ideas/Obsidian/Idea - Export Obsidian Vault to SQLite.md
+manuel/Ideas/Obsidian/Idea - HTTP Frontend to Obsidian Vault.md
+manuel/Ideas/Obsidian/Idea - Obsidian Native Git Integration.md
+manuel/Ideas/Obsidian/IDEA - Obsidian Plugin for Dynamic Notebooks.md
+manuel/Ideas/Obsidian/IDEA - Obsidian plugin that inserts a note into a sequential context.md
+manuel/Ideas/Obsidian/IDEA - Obsidian Plugin to File Notes Quickly From The Explorer.md
+manuel/Ideas/Obsidian/IDEA - Obsidian Plugin to Record Note Editing Dates.md
+manuel/Ideas/Obsidian/IDEA - PKM Creative Incident Creator.md
+manuel/Ideas/Obsidian/IDEA - PKM specific Datalog Graph Databases and Database Query Languages.md
+manuel/Ideas/Obsidian/IDEA - Plugin to file new ZK card.md
+manuel/Ideas/Bitsy Game Ideas.md
+manuel/Ideas/Blog ideas.md
+manuel/Ideas/Cherry Modular missing modules.md
+manuel/Ideas/Distributed Job Queue for 2D printers.md
+manuel/Ideas/Idea -  Structured Data Output Library in golang.md
+manuel/Ideas/IDEA - A federated convivial search engine.md
+manuel/Ideas/IDEA - Add image upload to the obsidian publish to gist plugin.md
+manuel/Ideas/IDEA - APP - Hacker news.md
+manuel/Ideas/Idea - CLI Logfile Structure Extractor.md
+manuel/Ideas/IDEA - CLI to query a cloud hosted Obsidian.md
+manuel/Ideas/IDEA - Column Data Pager.md
+manuel/Ideas/IDEA - Common Lisp Hyperspec modern site using tailwind.md
+manuel/Ideas/IDEA - Course - Course - Obsidian for developers.md
+manuel/Ideas/IDEA - IOT ZK Stamp.md
+manuel/Ideas/Idea - Lightweight HTTP to SQL query server.md
+manuel/Ideas/Idea - Lisp Templating Engine for YAML K8s.md
+manuel/Ideas/Idea - Loupedeck plugin that exposes a ZeroMQ interface.md
+manuel/Ideas/Idea - majipoor no nonsense pgchameleon.md
+manuel/Ideas/Idea - Make rocketbook cards with metadata scanning.md
+manuel/Ideas/IDEA - Markdown Graph Query Server.md
+manuel/Ideas/IDEA - Obsidian Plugin for Zettelkasten numbering folder view.md
+manuel/Ideas/Idea - PCAP to Markdown Formatter.md
+manuel/Ideas/Idea - Spaced repetition server.md
+manuel/Ideas/Idea - SQL Test Data Generator.md
+manuel/Ideas/Idea - Tasks library in javascript.md
+manuel/Ideas/Idea - Use Interactive Programming Prompts for Spaced Repetition.md
+manuel/Ideas/Idea Party Room Designs.md
+manuel/Ideas/IDEA PRESENTATION - CLI manifesto and concepts.md
+manuel/Ideas/IDEAS for 3D Prints.md
+manuel/Ideas/Interesting books to work through.md
+manuel/Ideas/Interesting papers to work through.md
+manuel/Ideas/Loupedeck App Ideas.md
+manuel/Ideas/PROJ - Animal Voting Booth.md
+manuel/Ideas/PROJ - G-Code visualizer in Rust.md
+manuel/Ideas/PROJ - Obsidian Plugin to write tweet threads.md
+manuel/Ideas/PROJ - Thermal Printer Ideas.md
+manuel/Ideas/PROJ - Trustfall backend using the Language Server Protocol.md
+manuel/Ideas/SICP JS App Ideas.md
+manuel/Ideas/Sixty minute mixit revamp.md
+manuel/Ideas/Speech based text adventure.md
+manuel/Ideas/💡App ideas.md
+manuel/Ideas/🔧Bitsy Brood X Cicada Game.md
+manuel/Logs/Dev/Dev Log 2022-07-09.md
+manuel/Logs/Dev/Dev Log 2022-07-15.md
+manuel/Logs/Recurse/2022-07-06 Rust Rodeo Tidbits Log.md
+manuel/Logs/2021-05-04.md
+manuel/Logs/2021-05-14 Thoughts.md
+manuel/Logs/2021-05-15 thoughts.md
+manuel/Logs/2021-05-17 thoughts.md
+manuel/Logs/2021-05-19 thoughts.md
+manuel/Logs/2022-05-21.md
+manuel/Logs/2022-05-22.md
+manuel/Logs/2022-05-23.md
+manuel/Logs/2022-05-24.md
+manuel/Logs/2022-05-25.md
+manuel/Logs/2022-05-26.md
+manuel/Logs/2022-05-27.md
+manuel/Logs/2022-05-28.md
+manuel/Logs/2022-05-29.md
+manuel/Logs/2022-05-30.md
+manuel/Logs/2022-05-31.md
+manuel/Logs/2022-06-01.md
+manuel/Logs/2022-06-02.md
+manuel/Logs/2022-06-03.md
+manuel/Logs/2022-06-04.md
+manuel/Logs/2022-06-05.md
+manuel/Logs/2022-06-06.md
+manuel/Logs/2022-06-07.md
+manuel/Logs/2022-06-10.md
+manuel/Logs/2022-06-11.md
+manuel/Logs/2022-06-15.md
+manuel/Logs/2022-06-18.md
+manuel/Logs/2022-06-19.md
+manuel/Logs/2022-06-20.md
+manuel/Logs/2022-06-21.md
+manuel/Logs/2022-06-22.md
+manuel/Logs/2022-06-23.md
+manuel/Logs/2022-06-24.md
+manuel/Logs/2022-06-25.md
+manuel/Logs/2022-06-26.md
+manuel/Logs/2022-06-27.md
+manuel/Logs/2022-06-28.md
+manuel/Logs/2022-07-04.md
+manuel/Logs/2022-07-05.md
+manuel/Logs/2022-07-08.md
+manuel/Logs/2022-07-10.md
+manuel/Logs/2022-07-13.md
+manuel/Logs/2022-07-14.md
+manuel/Logs/2022-07-15.md
+manuel/Logs/2022-07-16.md
+manuel/Logs/2022-07-17.md
+manuel/Logs/2022-07-19.md
+manuel/Logs/2022-07-21.md
+manuel/Logs/2022-07-25.md
+manuel/Logs/2022-07-26.md
+manuel/Logs/2022-07-27.md
+manuel/Logs/2022-07-28.md
+manuel/Logs/2022-07-29.md
+manuel/Logs/2022-07-30.md
+manuel/Logs/2022-07-31.md
+manuel/Logs/2022-08-03.md
+manuel/Logs/2022-08-05.md
+manuel/Logs/2022-08-06.md
+manuel/Logs/2022-08-07.md
+manuel/Logs/2022-08-08.md
+manuel/Logs/2022-08-09.md
+manuel/Logs/2022-08-13.md
+manuel/Logs/2022-08-14.md
+manuel/Logs/2022-08-15.md
+manuel/Logs/2022-08-18.md
+manuel/Logs/2022-08-19.md
+manuel/Logs/2022-08-21.md
+manuel/Logs/2022-08-24.md
+manuel/Logs/2022-08-25.md
+manuel/Logs/2022-08-26.md
+manuel/Logs/2022-08-27.md
+manuel/Logs/2022-10-01.md
+manuel/Logs/2022-10-02.md
+manuel/Logs/2022-10-09.md
+manuel/Notes/Articles/Articles.md
+manuel/Notes/Books/Books.md
+manuel/Notes/Brainstorm/Public/Notes about building a rtk-query unit test.md
+manuel/Notes/Brainstorm/Public/VCV - Loop of creativity.md
+manuel/Notes/Brainstorm/Public/VCV course stuff.md
+manuel/Notes/Brainstorm/Public/VCV Intro.md
+manuel/Notes/Brainstorm/Public/VCV Workflow.md
+manuel/Notes/Brainstorm/Trying to create a writing workflow.md
+manuel/Notes/Code/CODE - golangs channel datastructure chan.go.md
+manuel/Notes/Code/CODE - golangs context data structure.md
+manuel/Notes/Communication/Discussions/2022-05-23 Discord Discussion about Git Merge Workflow and Big Picture Architecture.md
+manuel/Notes/Communication/20220603+-+Twitter+about+Refactoring+Code+on+Twitter.md
+manuel/Notes/Communication/Advice from Rands Slack about Technical Strategy.md
+manuel/Notes/Communication/BubbleTeaTermenv stderr output.md
+manuel/Notes/Communication/CHAT - 2022-08-09 - Discussion on Devops etc.md
+manuel/Notes/Communication/chrisalbon T shirt.md
+manuel/Notes/Communication/ChristophMolnar.md
+manuel/Notes/Communication/DavidKPiano.md
+manuel/Notes/Communication/ejames_c.md
+manuel/Notes/Communication/GabriellaG.md
+manuel/Notes/Communication/GergelyOrosz.md
+manuel/Notes/Communication/HeyChelseaTroy.md
+manuel/Notes/Communication/johncutlefish.md
+manuel/Notes/Communication/jonmsterling.md
+manuel/Notes/Communication/joshsunshine.md
+manuel/Notes/Communication/Julian.md
+manuel/Notes/Communication/lexi_lambda.md
+manuel/Notes/Communication/lukaseder.md
+manuel/Notes/Communication/Manawyrm.md
+manuel/Notes/Communication/MarcJBrooker.md
+manuel/Notes/Communication/matryer.md
+manuel/Notes/Communication/mattpocockuk.md
+manuel/Notes/Communication/MaxieMoosie.md
+manuel/Notes/Communication/mipsytipsy.md
+manuel/Notes/Communication/mnmlmnl.md
+manuel/Notes/Communication/m_malignatus.md
+manuel/Notes/Communication/nomad421.md
+manuel/Notes/Communication/oliverjumpertz.md
+manuel/Notes/Communication/page_eco.md
+manuel/Notes/Communication/Questionnaire about git usage and understanding.md
+manuel/Notes/Communication/Rands Slack conversation about Concurrency 2022-05-15.md
+manuel/Notes/Communication/Resume help.md
+manuel/Notes/Communication/sheeshee.md
+manuel/Notes/Communication/Shifting baseline syndrome bidetmarxman.md
+manuel/Notes/Communication/shreyas.md
+manuel/Notes/Communication/ShriramKMurthi.md
+manuel/Notes/Communication/SICP JS talk.md
+manuel/Notes/Communication/Slack API design.md
+manuel/Notes/Communication/TaliaRinger.md
+manuel/Notes/Communication/TWEETS - Tools I Use.md
+manuel/Notes/Communication/VicVijayakumar.md
+manuel/Notes/Communication/xoocooatzin.md
+manuel/Notes/Courses/COURSE - Everything is the same - Modeling engineered systems.md
+manuel/Notes/Courses/VIDEO - Design Systems Frontend.md
+manuel/Notes/Courses/VIDEO - Notes - Udemy - Gutenberg Blocks for Wordpress and React.md
+manuel/Notes/Groups/Category Theory Catacombs/Category Theory Catacombs - Week 3.md
+manuel/Notes/Groups/Category Theory Catacombs/Category Theory Catacombs - Week 4.md
+manuel/Notes/Groups/Category Theory Catacombs/Category Theory Catacombs.md
+manuel/Notes/Groups/Category Theory Catacombs/Programming with Categories.md
+manuel/Notes/Groups/System Architecture Summer Pasture/System Architecture Summer Pasture 1.md
+manuel/Notes/Groups/System Architecture Summer Pasture/System Architecture Summer Pasture 2.md
+manuel/Notes/Groups/System Architecture Summer Pasture/System Architecture Summer Pasture 4.md
+manuel/Notes/Misc/Bitsy inspiration.md
+manuel/Notes/Misc/Conversation prompts about replication.md
+manuel/Notes/Misc/Djing notes.md
+manuel/Notes/Misc/How does pgchameleon work.md
+manuel/Notes/Misc/Notes interviewing.md
+manuel/Notes/Papers/Augmenting Human Intellect.md
+manuel/Notes/Papers/THESIS - Analyzing and visualizing Spreadsheets - Felienne Hermans.md
+manuel/Notes/Papers/Understanding Real-World Concurrency Bugs in Go.md
+manuel/Notes/Papers/Weird Machines, Exploitability and Provable Unexploitability.md
+manuel/Notes/Podcasts/Podcast - Bartosz Milewski.md
+manuel/Notes/Talks/Linking your thinking conference.md
+manuel/Notes/Talks/TALK - David Spivak - Categorical Databases.md
+manuel/Notes/Talks/TALK - Mason Egger - Write Docs Devs Tips.md
+manuel/Notes/Talks/VIDEO - Beautiful Folds.md
+manuel/Notes/Talks/VIDEO - Category Theory Bartosz Milewski.md
+manuel/Personal/My Retreat at the recurse center.md
+manuel/Projects/Ideas/A modern hacker spreadsheet.md
+manuel/Projects/Ideas/creativity-readme.md
+manuel/Projects/Ideas/manuel-wiki-creativity-readme.md
+manuel/Projects/Ideas/Old BASIC books.md
+manuel/Projects/Ideas/PROJ - Distributed consensus print queue.md
+manuel/Projects/Ideas/PROJ - IDEA - Rich Data Query Builder.md
+manuel/Projects/Ideas/PROJ - rust promise library.md
+manuel/Projects/Ideas/Text spreadsheet.md
+manuel/Projects/Ideas/wiki-creativity-readme.md
+manuel/Projects/Ideas/wiki-readme.md
+manuel/Projects/PROJ - EInk Typewriter/IDEA - Rust based Microbit Typewriter ideation.md
+manuel/Projects/PROJ - EInk Typewriter/IDEA - Rust based Microbit Typewriter.md
+manuel/Projects/PROJ - Canonical Interview Key-Value Store.md
+manuel/Projects/PROJ - Particle FX Editor.md
+manuel/Projects/PROJ - ppa-control app.md
+manuel/Projects/PROJ - Raza keep history forever.md
+manuel/Public/Cleaned up my daily notes.md
+manuel/Public/INDEX.md
+manuel/Public/My Obsidian Workflow.md
+manuel/Public/My published blog articles.md
+manuel/Public/NOW.md
+manuel/Public/PROJECTS.md
+manuel/Public/Tools I Use.md
+manuel/Quotes/A book comes from wanting the world to be different - Sandy Maguire.md
+manuel/Quotes/Aaron Lewis social media.md
+manuel/Quotes/antirez programming and writing.md
+manuel/Quotes/Bartosz Milewski - Programming with Categories.md
+manuel/Quotes/Bill Kent Not modelling reality.md
+manuel/Quotes/Buzz Aldrin Beautiful view… Magnificent desolation.md
+manuel/Quotes/Camille Fournier when few people understand what you do.md
+manuel/Quotes/Chris Collison Geoff Parcell- You can't manage knowledge.md
+manuel/Quotes/Christoph Molnar - Each data column has a difficult past.md
+manuel/Quotes/Christopher Alexander.md
+manuel/Quotes/Colson Whitehead - You didn't know.md
+manuel/Quotes/David Spivak - Categorical Theory is Analogy Made Rigorous.md
+manuel/Quotes/Dorian Taylor - Software is more like a university campus.md
+manuel/Quotes/Esther Perel - Too many people bring the best of themselves to work.md
+manuel/Quotes/Ezra Klein - I wrote to convince myself.md
+manuel/Quotes/Francis Bacon - Some books are to be tasted.md
+manuel/Quotes/Gerald Weinberg On writing.md
+manuel/Quotes/Gergely Orosz - The majority of jobs.md
+manuel/Quotes/Graydon Hoare - Always bet on text.md
+manuel/Quotes/Hunter Thompson - Beware of looking for goals.md
+manuel/Quotes/Ivan Illich - People need above all the freedom.md
+manuel/Quotes/Jaron Lanier - Nelson's links were two-way.md
+manuel/Quotes/Jarred - By mistake MySpace inspired.md
+manuel/Quotes/Joan Didion - I write entirely to find out what I'm thinking.md
+manuel/Quotes/John Cutler - Accepting internal advice.md
+manuel/Quotes/Kent Dybvig - There is a fine line.md
+manuel/Quotes/Kurt Vonnegut - We are what we pretend to be.md
+manuel/Quotes/Nassim Taleb - A library.md
+manuel/Quotes/Niklas Luhmann - I always do what is easy.md
+manuel/Quotes/Only Google to fact-check while writing.md
+manuel/Quotes/P. J. Brown - One of the most important.md
+manuel/Quotes/Petrarch - Books give delight.md
+manuel/Quotes/Richard Feynman - You have to work on paper.md
+manuel/Quotes/Richard Rumelt - A good strategy.md
+manuel/Quotes/Ruth Ozeki - Once you own an object.md
+manuel/Quotes/Salman Rushdie - Language is courage.md
+manuel/Quotes/Seneca - Advice on applying philosophers sayings.md
+manuel/Quotes/Shreyas Doshi - Product thinking.md
+manuel/Quotes/Steve Jobs - Creativity is just connecting things.md
+manuel/Quotes/Themistocles Strike but listen.md
+manuel/Quotes/Thomas Edison - Never go to sleep without.md
+manuel/Quotes/Whitehead.md
+manuel/Snippets/golang - HUP signal stacktrace printer.md
+manuel/Snippets/golang - List goroutines and print mem usage.md
+manuel/Templates/Book.md
+manuel/Templates/Contact.md
+manuel/Templates/Daily Note.md
+manuel/Templates/Decision.md
+manuel/Templates/Weekly note.md
+manuel/Templates/ZK Claim.md
+manuel/Wiki/Autism/Autism and empathy.md
+manuel/Wiki/Autism/Autism cognition.md
+manuel/Wiki/Autism/Autism communication.md
+manuel/Wiki/Autism/Autism in the workplace.md
+manuel/Wiki/Autism/Autism self diagnosis.md
+manuel/Wiki/Autism/Autism Stigma.md
+manuel/Wiki/Autism/Autism.md
+manuel/Wiki/Autism/Extreme male brain theory.md
+manuel/Wiki/Autism/Masking.md
+manuel/Wiki/Autism/Pathological demand avoidance.md
+manuel/Wiki/Creativity/AI Art.md
+manuel/Wiki/Creativity/Creative Practice.md
+manuel/Wiki/Creativity/Creativity.md
+manuel/Wiki/Creativity/Deliberate practice.md
+manuel/Wiki/Creativity/Drawing.md
+manuel/Wiki/Creativity/Emergent thinking.md
+manuel/Wiki/Creativity/Expertise.md
+manuel/Wiki/Creativity/Flow.md
+manuel/Wiki/Creativity/Generating ideas.md
+manuel/Wiki/Creativity/Generative art.md
+manuel/Wiki/Creativity/Generative music.md
+manuel/Wiki/Creativity/Habits.md
+manuel/Wiki/Creativity/Ideation and brainstorming.md
+manuel/Wiki/Creativity/README.md
+manuel/Wiki/Creativity/Sketchbooks.md
+manuel/Wiki/Creativity/Sketchnoting.md
+manuel/Wiki/Creativity/Visual formalisms.md
+manuel/Wiki/Creativity/Visual thinking.md
+manuel/Wiki/Creativity/Visuals.md
+manuel/Wiki/General/Software/1Password.md
+manuel/Wiki/General/Software/Anki.md
+manuel/Wiki/General/Software/Dataview.md
+manuel/Wiki/General/Software/Excalidraw.md
+manuel/Wiki/General/Software/Excel.md
+manuel/Wiki/General/Software/Figma.md
+manuel/Wiki/General/Software/Graph analysis Obsidian.md
+manuel/Wiki/General/Software/Juggl obsidian plugin.md
+manuel/Wiki/General/Software/Mermaid dataview.md
+manuel/Wiki/General/Software/README.md
+manuel/Wiki/General/Advertising.md
+manuel/Wiki/General/Anarchism.md
+manuel/Wiki/General/Architecture.md
+manuel/Wiki/General/Art.md
+manuel/Wiki/General/Attention.md
+manuel/Wiki/General/Blog.md
+manuel/Wiki/General/Boredom.md
+manuel/Wiki/General/Business models.md
+manuel/Wiki/General/Career advice.md
+manuel/Wiki/General/Climate change.md
+manuel/Wiki/General/Customer support.md
+manuel/Wiki/General/Decision making.md
+manuel/Wiki/General/Energy.md
+manuel/Wiki/General/Feelancing.md
+manuel/Wiki/General/Feynman technique.md
+manuel/Wiki/General/Freewrite traveller.md
+manuel/Wiki/General/Hiring.md
+manuel/Wiki/General/How to read a book.md
+manuel/Wiki/General/Interviewing.md
+manuel/Wiki/General/Leadership.md
+manuel/Wiki/General/Learning.md
+manuel/Wiki/General/List of shortcuts and productivity hacks.md
+manuel/Wiki/General/Pedagogy.md
+manuel/Wiki/General/Personal career.md
+manuel/Wiki/General/Personal knowledge management.md
+manuel/Wiki/General/Personal Projects.md
+manuel/Wiki/General/Philosophy.md
+manuel/Wiki/General/Podcasts.md
+manuel/Wiki/General/Procrastination.md
+manuel/Wiki/General/Product management.md
+manuel/Wiki/General/Product thinking.md
+manuel/Wiki/General/Productivity.md
+manuel/Wiki/General/Project management.md
+manuel/Wiki/General/Psychology.md
+manuel/Wiki/General/Public speaking.md
+manuel/Wiki/General/Rands slack.md
+manuel/Wiki/General/rands.md
+manuel/Wiki/General/README.md
+manuel/Wiki/General/Remote meetings.md
+manuel/Wiki/General/Remote working.md
+manuel/Wiki/General/Ringbinding.md
+manuel/Wiki/General/Skill extraction.md
+manuel/Wiki/General/Social media.md
+manuel/Wiki/General/Spaced repetition.md
+manuel/Wiki/General/Staff engineer.md
+manuel/Wiki/General/Strategy.md
+manuel/Wiki/General/Supermemo 2 algorithm.md
+manuel/Wiki/General/Systems thinking.md
+manuel/Wiki/General/Tacit knowledge.md
+manuel/Wiki/General/Teaching.md
+manuel/Wiki/General/Twitter.md
+manuel/Wiki/General/Typography.md
+manuel/Wiki/General/Using Bear as a wiki.md
+manuel/Wiki/General/Visualization.md
+manuel/Wiki/General/Working it in public.md
+manuel/Wiki/Mathematics/Category Theory/Applicative functor.md
+manuel/Wiki/Mathematics/Category Theory/Categorical databases.md
+manuel/Wiki/Mathematics/Category Theory/Categorical systems theory.md
+manuel/Wiki/Mathematics/Category Theory/Category theory.md
+manuel/Wiki/Mathematics/Category Theory/Composition.md
+manuel/Wiki/Mathematics/Category Theory/Monad transformers.md
+manuel/Wiki/Mathematics/Category Theory/Monad tutorial fallacy.md
+manuel/Wiki/Mathematics/Category Theory/Monads.md
+manuel/Wiki/Mathematics/Analog modeling.md
+manuel/Wiki/Mathematics/Backpropagation.md
+manuel/Wiki/Mathematics/Causality.md
+manuel/Wiki/Mathematics/Chain rule.md
+manuel/Wiki/Mathematics/Closed  cartesian categories.md
+manuel/Wiki/Mathematics/Complexity.md
+manuel/Wiki/Mathematics/Computer proofs.md
+manuel/Wiki/Mathematics/Computer science.md
+manuel/Wiki/Mathematics/Curry-Howard Isomorphisms.md
+manuel/Wiki/Mathematics/Data analysis.md
+manuel/Wiki/Mathematics/Diferential equations.md
+manuel/Wiki/Mathematics/DSP.md
+manuel/Wiki/Mathematics/Lean theorem prover.md
+manuel/Wiki/Mathematics/Linear algebra.md
+manuel/Wiki/Mathematics/Links between mathematics and programming.md
+manuel/Wiki/Mathematics/Logic.md
+manuel/Wiki/Mathematics/Mathematical platonism.md
+manuel/Wiki/Mathematics/Mathematical Proofs.md
+manuel/Wiki/Mathematics/Mathematics.md
+manuel/Wiki/Mathematics/Monoid.md
+manuel/Wiki/Mathematics/Philosophy of category theory.md
+manuel/Wiki/Mathematics/Probability.md
+manuel/Wiki/Mathematics/Profunctors.md
+manuel/Wiki/Mathematics/Queueing theory.md
+manuel/Wiki/Mathematics/Simpsons paradox.md
+manuel/Wiki/Mathematics/Statistics.md
+manuel/Wiki/Mathematics/Symmetric monoidal categories.md
+manuel/Wiki/Mathematics/Topos institute.md
+manuel/Wiki/Mathematics/Yoneda lemma.md
+manuel/Wiki/Music/BlueBox.md
+manuel/Wiki/Music/Digitakt.md
+manuel/Wiki/Music/Eurorack.md
+manuel/Wiki/Music/Modular Synthesizer.md
+manuel/Wiki/Music/Music Hardware.md
+manuel/Wiki/Music/Music.md
+manuel/Wiki/Music/Roland TR09.md
+manuel/Wiki/Music/Serge Modular Synthesizer.md
+manuel/Wiki/Music/Sound Design.md
+manuel/Wiki/Music/Techno.md
+manuel/Wiki/Music/VCV Rack.md
+manuel/Wiki/Music/VST Plugins.md
+manuel/Wiki/People/Alan Kay.md
+manuel/Wiki/People/Andy Matuschak.md
+manuel/Wiki/People/Bartosz Milewski.md
+manuel/Wiki/People/Bob Doto.md
+manuel/Wiki/People/Brendan Gregg.md
+manuel/Wiki/People/Buckminster Fuller.md
+manuel/Wiki/People/Christopher Alexander.md
+manuel/Wiki/People/Dan Bernstein.md
+manuel/Wiki/People/Devine Lu Linvega.md
+manuel/Wiki/People/Dmitry Vyuokov.md
+manuel/Wiki/People/Douglas Engelbart.md
+manuel/Wiki/People/Eleanor Konik.md
+manuel/Wiki/People/Ezra Klein.md
+manuel/Wiki/People/Felienne Hermans.md
+manuel/Wiki/People/Gwern Branwen.md
+manuel/Wiki/People/Hadley Wickham.md
+manuel/Wiki/People/Jamie Brandon.md
+manuel/Wiki/People/Jazz DiMauro.md
+manuel/Wiki/People/John Baez.md
+manuel/Wiki/People/Laurence Tratt.md
+manuel/Wiki/People/Michael Nielsen.md
+manuel/Wiki/People/Patrick Kua.md
+manuel/Wiki/People/Peter Norvig.md
+manuel/Wiki/People/Rich Gold.md
+manuel/Wiki/People/Richard Gabriel.md
+manuel/Wiki/People/Shriram Krishnamurthi.md
+manuel/Wiki/People/Ted Nelson.md
+manuel/Wiki/People/William Yaoh.md
+manuel/Wiki/Programming/Activity Theory.md
+manuel/Wiki/Programming/Agile.md
+manuel/Wiki/Programming/API Design.md
+manuel/Wiki/Programming/App ideas.md
+manuel/Wiki/Programming/Artificial Intelligence.md
+manuel/Wiki/Programming/Bayesian Statistics.md
+manuel/Wiki/Programming/Blackboard Systems.md
+manuel/Wiki/Programming/C++ Templates.md
+manuel/Wiki/Programming/C++.md
+manuel/Wiki/Programming/C.md
+manuel/Wiki/Programming/Cambria.md
+manuel/Wiki/Programming/Charm.md
+manuel/Wiki/Programming/CLI Programs.md
+manuel/Wiki/Programming/CLIM.md
+manuel/Wiki/Programming/Code compression and reuse.md
+manuel/Wiki/Programming/Code Locality.md
+manuel/Wiki/Programming/Code Review.md
+manuel/Wiki/Programming/Codebases.md
+manuel/Wiki/Programming/Command Line Tools.md
+manuel/Wiki/Programming/Common Lisp Hyperspec.md
+manuel/Wiki/Programming/Common Lisp.md
+manuel/Wiki/Programming/Communicating Sequential Processes.md
+manuel/Wiki/Programming/Compilers.md
+manuel/Wiki/Programming/Concurrency.md
+manuel/Wiki/Programming/Consistency.md
+manuel/Wiki/Programming/Continuation Passing Style.md
+manuel/Wiki/Programming/Convivial Tools.md
+manuel/Wiki/Programming/CQRS.md
+manuel/Wiki/Programming/CRDT.md
+manuel/Wiki/Programming/Darcs.md
+manuel/Wiki/Programming/Data Engineering.md
+manuel/Wiki/Programming/Data Structures.md
+manuel/Wiki/Programming/Database Query Languages.md
+manuel/Wiki/Programming/Database Schemas.md
+manuel/Wiki/Programming/Datalog.md
+manuel/Wiki/Programming/Datasette.md
+manuel/Wiki/Programming/Debugging.md
+manuel/Wiki/Programming/Dependency Injection.md
+manuel/Wiki/Programming/Design Patterns.md
+manuel/Wiki/Programming/Destination-Driven Code Generation.md
+manuel/Wiki/Programming/Diagrams.md
+manuel/Wiki/Programming/Differential Dataflow.md
+manuel/Wiki/Programming/Domain Driven Design.md
+manuel/Wiki/Programming/Domain Specific Language.md
+manuel/Wiki/Programming/Embedded Rust.md
+manuel/Wiki/Programming/Error Handling.md
+manuel/Wiki/Programming/Event Driven Architecture.md
+manuel/Wiki/Programming/Event Sourcing.md
+manuel/Wiki/Programming/Execute Program.md
+manuel/Wiki/Programming/Experimental Programming Environments.md
+manuel/Wiki/Programming/Faker.md
+manuel/Wiki/Programming/Formal Methods.md
+manuel/Wiki/Programming/Forth.md
+manuel/Wiki/Programming/Frontend.md
+manuel/Wiki/Programming/FSharp.md
+manuel/Wiki/Programming/Functional Programming - Fold.md
+manuel/Wiki/Programming/Functional programming.md
+manuel/Wiki/Programming/Functional Reactive Programming.md
+manuel/Wiki/Programming/Functional style vs imperative style.md
+manuel/Wiki/Programming/Futamura Projection.md
+manuel/Wiki/Programming/Futures.md
+manuel/Wiki/Programming/Fuzzing.md
+manuel/Wiki/Programming/Gamedev.md
+manuel/Wiki/Programming/Garbage Collection.md
+manuel/Wiki/Programming/ggplot2.md
+manuel/Wiki/Programming/Go rules.md
+manuel/Wiki/Programming/Go.md
+manuel/Wiki/Programming/Golang channels.md
+manuel/Wiki/Programming/Goroutine.md
+manuel/Wiki/Programming/Grammar of Graphics.md
+manuel/Wiki/Programming/Gutenberg Blocks.md
+manuel/Wiki/Programming/Haskell.md
+manuel/Wiki/Programming/Homoiconicity.md
+manuel/Wiki/Programming/Javascript Code Splitting.md
+manuel/Wiki/Programming/Javascript.md
+manuel/Wiki/Programming/Language Server Protocol.md
+manuel/Wiki/Programming/Layered architectures.md
+manuel/Wiki/Programming/Legacy Software.md
+manuel/Wiki/Programming/Lenses.md
+manuel/Wiki/Programming/libowfat.md
+manuel/Wiki/Programming/Linear Types.md
+manuel/Wiki/Programming/Lisp Languages.md
+manuel/Wiki/Programming/Log (Data Structure).md
+manuel/Wiki/Programming/Logo.md
+manuel/Wiki/Programming/Macros.md
+manuel/Wiki/Programming/Memory Management.md
+manuel/Wiki/Programming/Merge Algorithm.md
+manuel/Wiki/Programming/Metaprogramming.md
+manuel/Wiki/Programming/MicroPython.md
+manuel/Wiki/Programming/Microservices.md
+manuel/Wiki/Programming/Mobile Development.md
+manuel/Wiki/Programming/Monday Morning Haskell.md
+manuel/Wiki/Programming/N+1 Problem.md
+manuel/Wiki/Programming/Nominal Typing.md
+manuel/Wiki/Programming/OpalEye.md
+manuel/Wiki/Programming/Optics FP.md
+manuel/Wiki/Programming/Package Management.md
+manuel/Wiki/Programming/Pagination in APIs.md
+manuel/Wiki/Programming/Pair Programming.md
+manuel/Wiki/Programming/Parser Combinators.md
+manuel/Wiki/Programming/Pattern Languages.md
+manuel/Wiki/Programming/Perlis Languages.md
+manuel/Wiki/Programming/PHP.md
+manuel/Wiki/Programming/pico8.md
+manuel/Wiki/Programming/pimoroni inky bit.md
+manuel/Wiki/Programming/Pragmatism in software development.md
+manuel/Wiki/Programming/Probabilistic Programming.md
+manuel/Wiki/Programming/Program Kitbashing.md
+manuel/Wiki/Programming/Programmer Metacognition.md
+manuel/Wiki/Programming/Programming and fun.md
+manuel/Wiki/Programming/Programming as a career.md
+manuel/Wiki/Programming/Programming Books.md
+manuel/Wiki/Programming/Programming Language Theory.md
+manuel/Wiki/Programming/Programming Languages.md
+manuel/Wiki/Programming/Programming Podcasts.md
+manuel/Wiki/Programming/Programming.md
+manuel/Wiki/Programming/Prolog.md
+manuel/Wiki/Programming/Property-Based Testing.md
+manuel/Wiki/Programming/Pros and cons of go.md
+manuel/Wiki/Programming/Prototypes.md
+manuel/Wiki/Programming/Python.md
+manuel/Wiki/Programming/QuickCheck.md
+manuel/Wiki/Programming/R.md
+manuel/Wiki/Programming/Racket.md
+manuel/Wiki/Programming/Raft protocol.md
+manuel/Wiki/Programming/React Native.md
+manuel/Wiki/Programming/React.md
+manuel/Wiki/Programming/Recurse Center.md
+manuel/Wiki/Programming/Redux.md
+manuel/Wiki/Programming/Refactoring.md
+manuel/Wiki/Programming/Regular Expression.md
+manuel/Wiki/Programming/Relational Algebra.md
+manuel/Wiki/Programming/RFCs.md
+manuel/Wiki/Programming/RPL - HP Calculator Programming Language.md
+manuel/Wiki/Programming/Rubberducking.md
+manuel/Wiki/Programming/Rust Embassy.md
+manuel/Wiki/Programming/Rust.md
+manuel/Wiki/Programming/SAT SMT Solver.md
+manuel/Wiki/Programming/Scaffolding a database for unit testing.md
+manuel/Wiki/Programming/Schema Migration.md
+manuel/Wiki/Programming/Scheme.md
+manuel/Wiki/Programming/SEMRUSH.md
+manuel/Wiki/Programming/Service Layer Architecture and DB access.md
+manuel/Wiki/Programming/Skip List.md
+manuel/Wiki/Programming/Software Architecture.md
+manuel/Wiki/Programming/Software as teamwork.md
+manuel/Wiki/Programming/Software Craftsmanship.md
+manuel/Wiki/Programming/Software Documentation.md
+manuel/Wiki/Programming/Software Empathy.md
+manuel/Wiki/Programming/Software Engineering Antipatterns.md
+manuel/Wiki/Programming/Software Engineering.md
+manuel/Wiki/Programming/Software Estimation.md
+manuel/Wiki/Programming/Software Mentorship.md
+manuel/Wiki/Programming/Software Performance.md
+manuel/Wiki/Programming/Software Testing.md
+manuel/Wiki/Programming/Software Tools.md
+manuel/Wiki/Programming/Software transactional memory.md
+manuel/Wiki/Programming/Sound based Debugging.md
+manuel/Wiki/Programming/Source Control.md
+manuel/Wiki/Programming/State Chart XML Notation.md
+manuel/Wiki/Programming/State Machines.md
+manuel/Wiki/Programming/Strangler Fig Pattern.md
+manuel/Wiki/Programming/Streams (async).md
+manuel/Wiki/Programming/Structural Typing.md
+manuel/Wiki/Programming/Systems Programming.md
+manuel/Wiki/Programming/Teaching Programming.md
+manuel/Wiki/Programming/Template Haskell.md
+manuel/Wiki/Programming/Terraform.md
+manuel/Wiki/Programming/Test-Driven Development.md
+manuel/Wiki/Programming/Text Interfaces.md
+manuel/Wiki/Programming/The Little Series.md
+manuel/Wiki/Programming/Tidyverse.md
+manuel/Wiki/Programming/Timely Dataflow.md
+manuel/Wiki/Programming/TLA+.md
+manuel/Wiki/Programming/Transaction Processing.md
+manuel/Wiki/Programming/Traversals.md
+manuel/Wiki/Programming/Tree-sitter.md
+manuel/Wiki/Programming/Tutorial D.md
+manuel/Wiki/Programming/Type Systems.md
+manuel/Wiki/Programming/Typescript.md
+manuel/Wiki/Programming/Unit Tests.md
+manuel/Wiki/Programming/Variance Annotations.md
+manuel/Wiki/Programming/Web Development.md
+manuel/Wiki/Programming/Webhooks.md
+manuel/Wiki/Programming/Wolfram Data Drop.md
+manuel/Wiki/Programming/Wolfram Mathematica.md
+manuel/Wiki/Programming/Woocommerce.md
+manuel/Wiki/Programming/Wordpress Actions Tracer.md
+manuel/Wiki/Programming/Wordpress CLI.md
+manuel/Wiki/Programming/Wordpress taxonomies.md
+manuel/Wiki/Programming/Wordpress.md
+manuel/Wiki/Programming/Write-Ahead log.md
+manuel/Wiki/Programming/Zig Language.md
+manuel/Wiki/Programming/Øredev Conference.md
+manuel/Wiki/Technology/Databases/Databases.md
+manuel/Wiki/Technology/Databases/dglite.md
+manuel/Wiki/Technology/Databases/MySQL.md
+manuel/Wiki/Technology/Databases/PostgreSQL.md
+manuel/Wiki/Technology/Databases/SQL.md
+manuel/Wiki/Technology/Databases/SQLite.md
+manuel/Wiki/Technology/Distributed Systems/Distributed Consensus.md
+manuel/Wiki/Technology/Distributed Systems/Distributed Systems - unique IDs.md
+manuel/Wiki/Technology/Distributed Systems/Distributed Systems.md
+manuel/Wiki/Technology/Distributed Systems/Kafka.md
+manuel/Wiki/Technology/Distributed Systems/Kubernetes.md
+manuel/Wiki/Technology/Hardware/Apple M1.md
+manuel/Wiki/Technology/Hardware/ARM AMBA.md
+manuel/Wiki/Technology/Hardware/ARM Cortex-M.md
+manuel/Wiki/Technology/Hardware/Arm Thumb.md
+manuel/Wiki/Technology/Hardware/BBC Microbit.md
+manuel/Wiki/Technology/Hardware/Bluetooth.md
+manuel/Wiki/Technology/Hardware/DM42 Calculator.md
+manuel/Wiki/Technology/Hardware/EInk.md
+manuel/Wiki/Technology/Hardware/Kindle Hacking.md
+manuel/Wiki/Technology/Hardware/Loupedeck.md
+manuel/Wiki/Technology/Hardware/Mechanical Keyboard.md
+manuel/Wiki/Technology/Hardware/Nordic Semiconductor nRF52833.md
+manuel/Wiki/Technology/Hardware/PS2 Keyboard - OSDev Wiki.md
+manuel/Wiki/Technology/Hardware/PS2 Keyboard.md
+manuel/Wiki/Technology/Hardware/PS2 Mouse-Keyboard Protocol.md
+manuel/Wiki/Technology/Hardware/Raspberry Pi Pico.md
+manuel/Wiki/Technology/Hardware/Raspberry Pi RP2040.md
+manuel/Wiki/Technology/Hardware/RP2040 Programmable IO.md
+manuel/Wiki/Technology/Hardware/SPI.md
+manuel/Wiki/Technology/Hardware/ST-Link v3.md
+manuel/Wiki/Technology/Hardware/Thomson MO5.md
+manuel/Wiki/Technology/Hardware/USB.md
+manuel/Wiki/Technology/Hardware/Waveshare 4.2inch display.md
+manuel/Wiki/Technology/Hardware/Zebra ZD-420.md
+manuel/Wiki/Technology/Actor Network Theory.md
+manuel/Wiki/Technology/Android.md
+manuel/Wiki/Technology/Augmented Reality.md
+manuel/Wiki/Technology/Chaos Engineering.md
+manuel/Wiki/Technology/Chat Bots.md
+manuel/Wiki/Technology/Computer Graphics.md
+manuel/Wiki/Technology/Computer Security.md
+manuel/Wiki/Technology/Conceptual Integrity.md
+manuel/Wiki/Technology/Control Systems.md
+manuel/Wiki/Technology/Critique of Technology.md
+manuel/Wiki/Technology/Data Pipeline.md
+manuel/Wiki/Technology/Data Visualization.md
+manuel/Wiki/Technology/Design Systems.md
+manuel/Wiki/Technology/Digital Utopianism.md
+manuel/Wiki/Technology/DIY.md
+manuel/Wiki/Technology/Early Web.md
+manuel/Wiki/Technology/Embedded.md
+manuel/Wiki/Technology/End-User Kitbashing.md
+manuel/Wiki/Technology/Engineering.md
+manuel/Wiki/Technology/Example of good UI UX.md
+manuel/Wiki/Technology/Feedback Loops.md
+manuel/Wiki/Technology/Folk Interfaces.md
+manuel/Wiki/Technology/Funnel Analytics.md
+manuel/Wiki/Technology/Git Internals.md
+manuel/Wiki/Technology/Git Tools.md
+manuel/Wiki/Technology/Git.md
+manuel/Wiki/Technology/Github.md
+manuel/Wiki/Technology/Hypercard.md
+manuel/Wiki/Technology/Hypertext.md
+manuel/Wiki/Technology/HYTRADBOI.md
+manuel/Wiki/Technology/Information Dashboards.md
+manuel/Wiki/Technology/iOS.md
+manuel/Wiki/Technology/io_uring.md
+manuel/Wiki/Technology/Kitbashing.md
+manuel/Wiki/Technology/Latency.md
+manuel/Wiki/Technology/Logging.md
+manuel/Wiki/Technology/Machine Learning.md
+manuel/Wiki/Technology/Manifesto for CLI utilities.md
+manuel/Wiki/Technology/Manifesto for Knowledge-Centric Tools.md
+manuel/Wiki/Technology/Markdoc.md
+manuel/Wiki/Technology/Marketing Analytics.md
+manuel/Wiki/Technology/Microcontroller.md
+manuel/Wiki/Technology/Monodraw.md
+manuel/Wiki/Technology/Nix.md
+manuel/Wiki/Technology/Notion.md
+manuel/Wiki/Technology/Obsidian Hub.md
+manuel/Wiki/Technology/Obsidian Plugins.md
+manuel/Wiki/Technology/Obsidian spaced repetition plugin.md
+manuel/Wiki/Technology/Obsidian.md
+manuel/Wiki/Technology/Online Writing.md
+manuel/Wiki/Technology/Operating Systems.md
+manuel/Wiki/Technology/Patreon.md
+manuel/Wiki/Technology/Permacomputing.md
+manuel/Wiki/Technology/Prompt Engineering.md
+manuel/Wiki/Technology/QR Codes.md
+manuel/Wiki/Technology/Query Plan.md
+manuel/Wiki/Technology/RTOS.md
+manuel/Wiki/Technology/Search Engine.md
+manuel/Wiki/Technology/Small Web.md
+manuel/Wiki/Technology/Spin.md
+manuel/Wiki/Technology/Spreadsheets.md
+manuel/Wiki/Technology/Squeal.md
+manuel/Wiki/Technology/State-Space Controllers.md
+manuel/Wiki/Technology/Strange Loop.md
+manuel/Wiki/Technology/Technical Strategy.md
+manuel/Wiki/Technology/UI UX for developers.md
+manuel/Wiki/Technology/UI UX.md
+manuel/Wiki/Technology/Unblah.md
+manuel/Wiki/Technology/Virtual Machines.md
+manuel/Wiki/Technology/Voyager Spacecraft.md
+manuel/Wiki/Technology/Webrings.md
+manuel/Wiki/Technology/Weird Wide Web.md
+manuel/Wiki/Technology/Youtrack.md
+manuel/Wiki/Technology/Zendesk chatbot.md
+manuel/Wiki/Technology/Zendesk.md
+manuel/Wiki/Writing/Analog Zettelkasten.md
+manuel/Wiki/Writing/Book proposal.md
+manuel/Wiki/Writing/Commonplace Book.md
+manuel/Wiki/Writing/Computational Essays.md
+manuel/Wiki/Writing/Edge Notched Card.md
+manuel/Wiki/Writing/Fieldstones.md
+manuel/Wiki/Writing/Incremental Writing.md
+manuel/Wiki/Writing/Maximalist approach to Writing.md
+manuel/Wiki/Writing/My Blog.md
+manuel/Wiki/Writing/My Obsidian Vault 1.md
+manuel/Wiki/Writing/My Obsidian Vault.md
+manuel/Wiki/Writing/Notation.md
+manuel/Wiki/Writing/Organising notes.md
+manuel/Wiki/Writing/Quirky Books.md
+manuel/Wiki/Writing/Structure Notes.md
+manuel/Wiki/Writing/Technical Writing.md
+manuel/Wiki/Writing/Typewriter.md
+manuel/Wiki/Writing/Writing as a programmer.md
+manuel/Wiki/Writing/Writing Process.md
+manuel/Wiki/Writing/Writing Steps.md
+manuel/Wiki/Writing/Writing.md
+manuel/Wiki/Writing/Zettelkasten.md
+manuel/Wiki/Writing/🕸Writing.md
+manuel/Wiki/Writing/🧠 Notetaking.md
+manuel/Wiki/README.md
+manuel/Writing/Drafts/DRAFT - 2022-07-15 - Obsidian as a toolbox.md
+manuel/Writing/Drafts/DRAFT - 2022-07-23 Autistic people can't acknowledge when they are wrong.md
+manuel/Writing/Drafts/DRAFT - 2022-07-27 My Notetaking.md
+manuel/Writing/Presentation/2022-07-01 RC We are teaching git wrong.md
+manuel/Writing/Published/Microessays/2022-08-02 10 Debugging Tips for embedded and distributed systems.md
+manuel/Writing/Published/Microessays/2022-08-04 How I learned strategic thinking as an engineer.md
+manuel/Writing/Published/2022-07-28 School story.md
+manuel/Writing/Published/2022-07-30 Diagrams.md
+manuel/Writing/Published/2022-07-31 Things I've learned over the years.md
+manuel/Writing/Published/2022-08-01 - MICRO -  PHP-JS.md
+manuel/Writing/Published/20220424 - Concurrency a pasta example.md
+manuel/Writing/Published/20220424 🍝 💾 Concurrency concepts are about organizing code.md
+manuel/Writing/Published/20220425 - The book that changed my development career now has a Javascript version.md
+manuel/Writing/Published/20220426 - Quick tip Tuesday Writing RFCs for fun and profit.md
+manuel/Writing/Published/20220427 - Beyond Javascript 5 Programming Languages That Will Rewire Your Brain (Part 15 C).md
+manuel/Writing/Published/20220502 - 90% of software engineering is integrating janky APIs and I love it.md
+manuel/Writing/Published/20220506 - Worse UX for a better product how to think in outcomes.md
+manuel/Writing/Published/20220507 - Imposter syndrome is about systemic discrimination.md
+manuel/Writing/Published/20220510 - 14 Great Tips To Make Amazing CLI Tools.md
+manuel/Writing/Published/20220514 - Finding my way back to Lisp - Part 1 - Working inside the language.md
+manuel/Writing/Published/20220516 - I am a dumb programmer that's why I am good at my job.md
+manuel/Writing/Published/20220524 - Squash commits considered harmful.md
+manuel/Writing/Published/20220601 - Thomson MO5.md
+manuel/Writing/Published/20220606 - What I learned about writing and workflow during the pandemic.md
+manuel/Writing/Published/20220627 - RC Day One.md
+manuel/Writing/Published/20220628 - Embrace the YOLO - how to let go as a type A nerd.md
+manuel/Writing/Published/20220630 - Some Helpful Embedded Tricks - RC Day 4.md
+manuel/Writing/Published/20220701 - Asking stupid questions - RC Day Four.md
+manuel/Writing/Published/20220704 - How I currently take notes - RC Day Eight.md
+manuel/Writing/Published/20220705 - Turning music into a chore is what made me an artist.md
+manuel/Writing/Published/BLOG - Learning how to work on personal projects.md
+manuel/Writing/Published/BLOG - The secret for 10x impact - ask the right questions write boring software.md
+manuel/README.md
+music/Intro.md
+music/intro1.png
+nutrition/nutrients_common_foods.pdf
+nutrition/nuvegan.html
+obsidian/a year of using obsidian.md
+obsidian/manuel-public-index.md
+webapp/assets/icon-100.png
+webapp/assets/icon-150.png
+webapp/assets/icon-192.png
+webapp/assets/icon-250.png
+webapp/assets/icon-500.png
+webapp/index.html
+webapp/readme.md
+what/health/Asthma.md
+what/health/Diet & Nutrition.md
+what/health/glucocorticoids and the brain.pdf
+what/health/Headaches.md
+what/health/Headaches.md.html
+what/health/inhaled cortico steroids.pdf
+what/health/nutrients_common_foods.pdf
+what/A life of one's own.md
+what/A Thousand Plateaus.md
+what/Bicycle helmets the Dutch way.md
+what/body-mind.md
+what/Body.md
+what/ComeOfAge.md
+what/Graphs.png
+what/Health.md
+what/KeepNotes.md
+what/The Portable Dragon.pdf
+what/TheBlossomestBlossom.md
+what/What am I going to do now....md
+what/Yutang Lin.pdf
+wordcloud/cloud.html
+wordcloud/output.html
+about.html
+ace.html
+ai.md
+alt.html
+alt.md
+cdef.md
+clogs.md
+codemirror.html
+coggle.html
+cookies.html
+easymde.html
+etest.html
+etest.md
+generator.md
+iframes.md
+index.1.html
+index.html
+index.md
+javascripter.html
+javascripter.md
+journal.md
+katex.html
+katex.md
+links.md
+math.md
+network.html
+network.md
+network1.html
+network_small.html
+notes.md
+osmos.html
+osmos.md
+plotlinks.html
+pocket.md
+README.md
+similarity.html
+sitemap.txt
+sitemapRaw.txt
+sitesearch.txt
+stackedit.html
+syntax.html
+syntax.md
+syntax.md.html
+test.html
+test.md
+testgallery.html
+testheader.html
+testmanuel1.md
+testmanuel2.md
+testMathJax.html
+testphotos.html
+testphotos.md
+testphotos2.md
+testShd.html
+timpendean-png.md
+tinymde.html
+tinymde.md
+tui.html
+what.html

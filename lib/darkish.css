@@ -1,0 +1,17 @@
+:root { --hdr: #443 --bdy:#332;}
+body, pre, code, .toc, #main { background:#332; color:#ccc;} 
+#header {background:#332; color:#eee; background-image: url('../img/hdr_grey.png')}
+::-webkit-scrollbar {background-color:#332;}
+::-webkit-scrollbar-thumb {background:#443;}
+::-webkit-scrollbar-corner { background: #332;}
+::-webkit-scrollbar-button {background-color:#332;}
+.btn {background:#332; color:#ccc; border:none;}
+.btn:hover {background:#221; color:#777; border:none;}
+.btndk {background:none; color:#fff; border:none;}
+.btndk:hover {background:#332; color:#777; border:none;}
+button {background:#332; color:#aaa; border:none;}
+.dropdown-content a {background:#554; border:none;color:#ddd;}
+a {color:#88f;background:#332;}
+.toc  .h1, li.h1:hover, li.h2:hover, li.h3:hover, a:hover { background: #554;}
+.toc li:hover,summary:hover { background: #554; }
+#title1:hover{ color: #88f; }

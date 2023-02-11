@@ -1,0 +1,69 @@
+<html>
+
+<head>
+  <!-- from https://github.com/jefago/tiny-markdown-editor -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tinymde</title>
+  <link rel="stylesheet" href="./lib/tinymde.min.css">
+  <script src="./lib/pouchdb.min.js"></script>
+  <script src="./lib/tinymde.min.js"></script>
+  <script src="./lib/filesaver.js"></script>
+  <script src="./lib/zetti.js"></script>
+  <link rel="stylesheet" href="./lib/github.min.css">
+  <script src="./lib/highlight.min.js"></script>
+  <script>
+    var original = false;
+    var hfile = window.location.href.split('?file=')[1] || window.location.href.split('?')[1] || '';
+    if (hfile.endsWith('!')) { hfile = hfile.substring(0, hfile.length - 1); original = true; }
+    var dname = hfile.replace(/[\/\\]/g, '_');
+  </script>
+</head>
+
+<body>
+  <div id="tinymde_commandbar1"></div>
+  <div id="tinymde1" style="height:600px; overflow-y:scroll; border:1px solid #c0c0c0"></div>
+  <script>
+    function createBlob(data) { return new Blob([data], { type: "text/plain" }); }
+    var tiny1 = new TinyMDE.Editor({ element: 'tinymde1' }); //parent.resizeiframe(parent.document.getElementById('ed'));
+    var commandBar1 = new TinyMDE.CommandBar({
+      element: 'tinymde_commandbar1', editor: tiny1, commands: [
+        { name: 'close', title: 'Close', innerHTML: '✕', action: (e) => { parent.loadfile(hfile, parent.main, false); } },
+        { name: 'save', title: 'Save changes', innerHTML: '<b>⎙</b>', action: (e) => { pouchSave(hfile, tiny1.getContent()); parent.loadfile(hfile, parent.main, false); } },
+        { name: 'dload', title: 'Download', innerHTML: '<b>⍗</b>', action: (e) => { let tempf = createBlob(tiny1.getContent()); saveAs(tempf, dname); } },
+        { name: 'orig', title: 'Show original', innerHTML: '<b>⎌</b>', action: (e) => { original = !original; parent.loadOriginal = original; parent.loadfile(hfile, parent.main, true); } },
+        { name: 'delete', title: 'Delete all & revert\nto original markdown', innerHTML: '<b>Ø</b>', action: (e) => { pouchDelete(hfile); parent.loadfile(hfile, parent.main, false); } },
+        '|', 'bold', 'italic', 'strikethrough', '|', 'code', '|', 'h1', 'h2', '|', 'ul', 'ol', '|', 'blockquote', 'hr', '|', 'insertLink', 'insertImage',
+        { name: 'date', title: 'insert Date', innerHTML: '@', action: (e) => { tiny1.paste('' + new Date().toDateString()) } },
+      ]
+    });
+    if (hfile != '') { //need to reload to get markdown
+      var obj;
+      async function loadMD() {
+        obj = await pouchLoad(hfile); //check for local update
+        alert('test1 '+(!original && obj && obj.contents && obj.contents != ''));
+        if (!original && obj && obj.contents && obj.contents != '') {
+        tiny1.setContent(obj.contents);
+          tiny1.addEventListener("change", function (e) { pouchSave(hfile, e.content); });
+        } else { //if there is no local update, load the file from the server
+          var xhr = new XMLHttpRequest();
+          xhr.open('GET', hfile, true);
+          xhr.onload = function () {
+            if (xhr.status === 200) {
+              s = xhr.responseText;
+              if (s.includes('<!-- start -->') ) s =s.substring(xhr.responseText.indexOf('<!-- start -->' ) +14);
+              if (s.includes('<!-- end -->')) s = s.substring(0, xhr.responseText.indexOf('<!-- end -->'));
+              tiny1.setContent(s);
+              if (!original) tiny1.addEventListener("change", function (e) { pouchSave(hfile, e.content); });
+            }
+          };
+          xhr.send();
+        }
+      }
+      loadMD();
+    }
+  </script>
+</body>
+
+</html>

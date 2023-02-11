@@ -1,0 +1,15 @@
+:root { --hdr: #222; -bdy:#111;}
+body, pre, code, .toc, #main, #disp, #cont, #peek { background:#111; color:#ccc;} 
+#header {background:#111; color:#ccc; background-image: url('../img/hdr_aurora.png')}
+::-webkit-scrollbar {background-color:#111;}
+::-webkit-scrollbar-thumb {background:#333;}
+::-webkit-scrollbar-corner { background: #111;}
+::-webkit-scrollbar-button {background-color:#111;}
+.btn {background:#222; color:#ccc; border:none;}
+.btn:hover {background:#222; color:#777; border:none;}
+button {background:#222; color:#aaa; border:none;}
+.dropdown-content a {background:#444; border:none;color:#ddd;}
+a {color:#88f;background:#111;}
+.toc li.h1:hover, li.h2:hover, li.h3:hover, a:hover { background: #444;}
+.toc li:hover,summary:hover { background: #444; }
+#title1:hover{ color: #88f; }

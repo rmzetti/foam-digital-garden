@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html><head>
+<script>
+function setCookie(x,y){
+  document.cookie=x+"="+y;
+}
+function getCookie(x){
+for (let c of document.cookie.split(';')) {
+  c=c.trim().split('=');
+  if (c[0]==x){ return c[1]; }
+}
+return "";
+}
+function removeCookie(x){
+  document.cookie=x+"=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+}
+function getAllCookies(){
+  return document.cookie;
+}
+function removeCookies(){
+  for (const s of document.cookie.split(';')) {
+    removeCookie(s.split('=')[0])
+  }
+}
+</script>
+</head>
+<body>
+<h3>Test cookie functions</h3>
+<button onclick='setCookie("a","The meaning of life")'>Set a</button>
+<button onclick='setCookie("b",43)'>Set b</button>
+<button onclick='setCookie("c","[0,4,2]")'>Set c</button><br>
+<button onclick='removeCookie("a")'>Remove a</button>
+<button onclick='removeCookie("b")'>Remove b</button>
+<button onclick='removeCookie("c")'>Remove c</button><br>
+<button onclick='document.getElementById("p").innerHTML=getCookie("a");'>Get a</button>
+<button onclick='document.getElementById("p").innerHTML=getCookie("b");'>Get b</button>
+<button onclick='document.getElementById("p").innerHTML=getCookie("c");'>Get c</button><br>
+<button onclick='document.getElementById("p").innerHTML=getAllCookies()'>Show all</button>
+<button onclick='removeCookies()'>Remove all</button>
+<h4>Result:</h4>
+<p id="p"></p>
+</body>
+</html>

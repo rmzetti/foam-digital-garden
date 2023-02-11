@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>StackEdit</title>
+    <script src="./lib/stackedit.min.js"></script>
+    <script src="./lib/zetti.js"></script>
+    <script src="./lib/pouchdb.min.js"></script>
+    <script>
+      var original = false;
+      var hfile = window.location.href.split('?file=')[1] || window.location.href.split('?')[1] || '';
+      if (hfile.endsWith('!')) { hfile = hfile.substring(0, hfile.length - 1); original = true; }
+      var dname = hfile.replace(/[\/\\]/g, '_');
+    </script>
+</head>
+<body>
+  <script>
+    const stackedit = new Stackedit();
+    if (hfile != '') { //need to reload to get markdown
+      var obj;
+      async function loadMD() {
+        obj = await pouchLoad(hfile); //check for local update
+        if (!original && obj && obj.contents && obj.contents != '') {
+          stackedit.openFile({ name:hfile, content: { text: obj.contents, },});
+          stackedit.on('fileChange', (file) => { pouchSave(hfile,file.content.text); });
+          stackedit.on('close', () => { parent.loadfile(hfile,parent.main,false); });
+        } else { //if there is no local update, load the file from the server
+          var xhr = new XMLHttpRequest();
+          xhr.open('GET', hfile, true);
+          xhr.onload = function () {
+            if (xhr.status === 200) {
+              let s = xhr.responseText;
+              if (s.includes('<!-- start -->') ) s = s.substring(xhr.responseText.indexOf('<!-- start -->' ) +14);
+              if (s.includes('<!-- end -->')) s = s.substring(0,xhr.responseText.indexOf('<!-- end -->'));
+              stackedit.openFile({ name:hfile, content: { text: s, },});
+              stackedit.on('fileChange', (file) => { pouchSave(hfile,file.content.text); });
+              stackedit.on('close', () => { parent.loadfile(hfile,parent.main,false); });
+            }
+          };
+          xhr.send();
+        }
+      }
+      loadMD();
+    }
+  </script>
+</body>
+</html>

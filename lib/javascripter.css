@@ -1,0 +1,30 @@
+h2 { 
+    margin-bottom: 0; 
+}
+pre {
+    width: 100%;
+    min-height: 20px;
+    display:inline-block;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-family:Verdana;
+    font-size:12px;
+    box-sizing:border-box;
+}
+
+div.navigation {
+    font-size: 85%;
+    color: #AAAAAA;
+    cursor:pointer;
+    margin-bottom:10px;
+}
+
+div.navigation a:link {
+    color: #AAAAAA;
+    text-decoration:none;
+}
+
+div.navigation a:visited {
+    color: #888888;
+}
+

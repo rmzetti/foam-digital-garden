@@ -1,0 +1,100 @@
+<head>
+  <script>
+    if (parent.usedark){ //This up front here to avoid flash of light/dark theme
+      (function () {
+        const style = document.createElement("link"); // Create link element
+        style.rel = "stylesheet"; // Set relationship to be a stylesheet
+        style.href = "lib/dark.css"; // Set the path to the CSS file
+        document.head.appendChild(style); // Add link tag to the head element
+      })();
+    };
+    if (parent.usedark) parent.loaddarkcss();
+  </script>  
+</head>
+<!-- <style>body { background-color: darkgray;}</style>  -->
+<!-- <div style="background-color: darkgray;"> -->
+<h1 id="markdowncheatsheethttpswwwmarkdownguideorgcheatsheet">Markdown <a href="https://www.markdownguide.org/cheat-sheet/" id="toc-item-1">Cheat Sheet</a></h1>
+<p>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer, for example, to the reference guides for <a href="https://www.markdownguide.org/basic-syntax" id="toc-item-2">basic syntax</a> and <a href="https://www.markdownguide.org/extended-syntax" id="toc-item-3">extended syntax</a>.</p>
+<h2 id="basicsyntax">Basic Syntax</h2>
+<p>These are the elements outlined in <a href="https://daringfireball.net/projects/markdown/syntax" id="toc-item-5">John Gruber’s original design document</a>. All Markdown applications support these elements.</p>
+<h3 id="heading">Heading</h3>
+<pre><code># H1
+## H2
+### H3
+</code></pre>
+<h3 id="bold">Bold</h3>
+<pre><code>**bold text**
+</code></pre>
+<h3 id="italic">Italic</h3>
+<pre><code>*italicized text*
+</code></pre>
+<h3 id="blockquote">Blockquote</h3>
+<pre><code>&gt; blockquote
+</code></pre>
+<p>Gives this:</p>
+<blockquote>
+  <p>blockquote</p>
+</blockquote>
+<h3 id="orderedlist">Ordered List</h3>
+<pre><code>1. First item
+2. Second item
+3. Third item
+</code></pre>
+<h3 id="unorderedlist">Unordered List</h3>
+<pre><code>- First item
+- Second item
+- Third item
+</code></pre>
+<h3 id="code">Code</h3>
+<pre><code>This is `code`
+</code></pre>
+<p>gives:</p>
+<p>This is <code>code</code></p>
+<h3 id="horizontalrule">Horizontal Rule</h3>
+<hr>
+<h3 id="link">Link</h3>
+<p><a href="https://www.markdownguide.org/" id="toc-item-15">Markdown Guide</a></p>
+<h3 id="image">Image</h3>
+<pre><code>![alt text](https://www.markdownguide.org/assets/images/tux.png "width=60")
+</code></pre>
+<p>gives:</p>
+<p><img src="https://www.markdownguide.org/assets/images/tux.png" alt="alt text" title="width=60"></p>
+<h2 id="extendedsyntax">Extended Syntax</h2>
+<p>These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.</p>
+<h3 id="table">Table</h3>
+<pre><code>| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+</code></pre>
+<h3 id="fencedcodeblock">Fenced Code Block</h3>
+<p>Use triple backtics (fence) for the line at the start and the end of a 'code' block to get</p>
+<pre><code>s="Hello world"
+print(s)
+</code></pre>
+<h3 id="footnote">Footnote</h3>
+<p>Here's a sentence with a footnote. [^1]</p>
+<p>[^1]: This is the footnote.</p>
+<h3 id="headingid">Heading ID</h3>
+<h3 id="myheadingcustomid">My Heading {#custom-id}</h3>
+<h3 id="definitionlist">Definition List</h3>
+<p>term
+: definition</p>
+<h3 id="strikethrough">Strikethrough</h3>
+<p>~~The world is flat.~~</p>
+<h3 id="tasklist">Task List</h3>
+<ul>
+<li>[x] Write the press release</li>
+<li>[ ] Update the website</li>
+<li>[ ] Contact the media</li>
+</ul>
+<h3 id="emoji">Emoji</h3>
+<p>That is so funny! :joy:</p>
+<p>(See also <a href="https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji" id="toc-item-27">Copying and Pasting Emoji</a>)</p>
+<h3 id="highlight">Highlight</h3>
+<p>I need to highlight these ==very important words==.</p>
+<h3 id="subscript">Subscript</h3>
+<p>H~{2}~O</p>
+<h3 id="superscript">Superscript</h3>
+<p>X^2^</p><br>
+<!-- </div> -->
